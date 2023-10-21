@@ -21,7 +21,7 @@
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 /*define( 'DB_NAME', 'tecnoplaza' );*/
-define('DB_NAME', 'db_tienda20');
+define('DB_NAME', 'tecnoplaza');
 
 /** MySQL database username */
 /*define( 'DB_USER', 'db_tienda20' );*/
@@ -32,6 +32,7 @@ define('DB_USER', 'root');
 define('DB_PASSWORD', '');
 
 /** MySQL hostname */
+/* define('DB_HOST', 'localhost');*/
 define('DB_HOST', 'localhost');
 
 /** Database charset to use in creating database tables. */
