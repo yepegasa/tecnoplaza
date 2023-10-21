@@ -1,0 +1,13 @@
+2023-10-18T19:33:18+00:00 CRITICAL Uncaught Error: Failed opening required '/home/yelsonpe/tecnoplaza.yelsonpersi.com/wp-content/plugins/weglot/weglot-autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/yelsonpe/tecnoplaza.yelsonpersi.com/wp-content/plugins/weglot/weglot.php:290
+Stack trace:
+#0 /home/yelsonpe/tecnoplaza.yelsonpersi.com/wp-includes/class-wp-hook.php(310): weglot_plugin_loaded('')
+#1 /home/yelsonpe/tecnoplaza.yelsonpersi.com/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/yelsonpe/tecnoplaza.yelsonpersi.com/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/yelsonpe/tecnoplaza.yelsonpersi.com/wp-settings.php(495): do_action('plugins_loaded')
+#4 /home/yelsonpe/tecnoplaza.yelsonpersi.com/wp-config.php(96): require_once('/home/yelsonpe/...')
+#5 /home/yelsonpe/tecnoplaza.yelsonpersi.com/wp-load.php(50): require_once('/home/yelsonpe/...')
+#6 /home/yelsonpe/tecnoplaza.yelsonpersi.com/wp-blog-header.php(13): require_once('/home/yelsonpe/...')
+#7 /home/yelsonpe/tecnoplaza.yelsonpersi.com/index.php(17): require('/home/yelsonpe/...')
+#8 {main}
+  thrown en /home/yelsonpe/tecnoplaza.yelsonpersi.com/wp-content/plugins/weglot/weglot.php en la línea 290
+

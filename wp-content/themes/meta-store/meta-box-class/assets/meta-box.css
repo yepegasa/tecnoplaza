@@ -1,0 +1,267 @@
+/**
+ * All Types Meta Box Class CSS
+ *
+ * CSS used for the custom metaboxes and other form items.
+ *
+ * Copyright 2011 Ohad Raz (admin@bainternet.info)
+ */
+
+.ms-meta-box-desc{
+    margin-top: 10px;
+    font-style: italic;
+}
+
+.ms-meta-box-container{
+    display: flex;
+}
+
+.ms-meta-box-tab-nav{
+    width: 230px;
+    background: #EEE;
+    margin: -6px 30px -14px -14px;
+}
+
+.ms-meta-box-panels{
+    flex-grow: 1;
+}
+
+.ms-meta-box-tab-nav li.ms-meta-box-tab{
+    margin: 0;
+}
+
+.ms-meta-box-tab-nav li.ms-meta-box-tab a{
+    display: block;
+    text-decoration: none;
+    color: #333;
+    padding: 15px 20px;
+    margin: 0;
+    box-shadow: none;
+    outline: none;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.ms-meta-box-tab-nav li.ms-meta-box-tab a i{
+    font-size: inherit;
+    line-height: inherit;
+    height: auto;
+    width: auto;
+    margin-right: 6px;
+}
+
+.ms-meta-box-tab-nav li.ms-meta-box-tab.ms-active-tab a{
+    background: #FFF;
+}
+
+.ms-meta-box-panels .ms-meta-box-panel{
+    display: none;
+}
+
+.ms-meta-box-row{
+    margin-bottom: 15px;
+}
+
+.ms-meta-box-label{
+    margin-bottom: 5px;
+    display: block;
+    font-weight: bold;
+}
+
+/*Toggle*/
+.ms-meta-box-toggle {
+    position: relative;
+    width: 52px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
+.ms-meta-box-toggle input {
+    display: none !important;
+}
+
+.ms-meta-box-toggle-label{
+    display: block;
+    overflow: hidden;
+    cursor: pointer;
+    height: 22px;
+    padding: 0;
+    line-height: 19px !important;
+    -webkit-transition: background-color 0.2s ease-in;
+    transition: background-color 0.2s ease-in;
+    border-radius: 30px;
+    background-color: #c4c4c4;
+    -webkit-box-shadow: inset 0 2px 1px rgba(0, 0, 0, 0.11);
+    box-shadow: inset 0 2px 1px rgba(0, 0, 0, 0.11);
+}
+
+.ms-meta-box-toggle-label:before {
+    content: '';
+    display: block;
+    width: 18px;
+    height: 18px;
+    margin: 0;
+    position: absolute;
+    top: 2px;
+    bottom: 0;
+    right: 32px;
+    background-color: #fff;
+    -webkit-box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    -webkit-transition: all 0.2s ease-in 0s;
+    transition: all 0.2s ease-in 0s;
+}
+
+.ms-meta-box-toggle-label:after {
+    content: 'OFF';
+    display: block;
+    color: #fff;
+    position: absolute;
+    top: 2px;
+    bottom: 2px;
+    right: 6px;
+    font-size: 11px;
+    font-family: 'Arial';
+}
+
+.ms-meta-box-toggle-checkbox:checked + .ms-meta-box-toggle-label{
+    background-color: #adc75c;
+}
+
+.ms-meta-box-toggle-checkbox:checked + .ms-meta-box-toggle-label:before {
+    right: 2px;
+}
+
+.ms-meta-box-toggle-checkbox:checked + .ms-meta-box-toggle-label:after {
+    content: 'ON';
+    right: 27px;
+}
+
+/*Image Radio*/
+.ms-meta-box-image-select {
+    position: relative;
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    float: left;
+    margin: 0 15px 15px 0;
+    padding: 3px;
+}
+
+.ms-meta-box-image-select span{
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    border: 3px solid #d8d8d8;
+}
+
+.ms-meta-box-image-select img {
+    width: 100%;
+    height: 100%;
+}
+
+.ms-meta-box-image-select:hover span{
+    border-color: #333;
+}
+
+.ms-meta-box-image-select input:checked + span{
+    border-color: #0074a2;
+}
+
+.ms-meta-box-image-select .meta-store-radio {
+    display: none;
+}
+
+/*Background Image*/
+.ms-meta-box-image-preview{
+    max-width: 300px;
+    margin-bottom: 15px;
+}
+
+.ms-meta-box-image-preview img{
+    display: block;
+    cursor: pointer;
+}
+
+.ms-meta-box-bg-params{
+    margin-bottom: 15px;
+}
+
+.ms-meta-box-bg-param-row{
+    display: flex;
+}
+
+.ms-meta-box-bg-param-col{
+    margin-right: 20px;
+}
+
+.ms-meta-box-bg-param-col label{
+    display: block;
+    margin-bottom: 5px;
+}
+
+.ms-meta-box-bg-param-col select{
+    width: 100%;
+}
+
+/*Radio*/
+.meta-store-radio-label{
+    margin-right: 20px;
+}
+
+/*Multi Checkbox*/
+.ms-meta-box-checkbox-fields{
+    margin-bottom: 8px;
+}
+
+/*Repeater*/
+.meta-store-repater-block{
+    position: relative;
+    border: 1px solid #eee;
+    padding: 0 12px;
+    margin-bottom: 20px;
+    background: #FFF;
+}
+
+.meta-store-repater-block > h6{
+    background: #EEE;
+    padding: 10px;
+    font-size: 13px;
+    margin: 0 -12px;
+    display: flex;
+    align-items: center;
+}
+
+.ms-meta-box-repeater-table{
+    margin: 20px 0;
+}
+
+.meta-store-repater-block > h6 .meta-store-re-sort-handle{
+    margin-right: 20px;
+    font-size: 16px;
+    cursor: move;
+}
+
+.meta-store-repater-block > h6 .meta-store-re-toggle{
+    margin-left: auto;
+    cursor: pointer;
+}
+
+.meta-store-repater-block .meta-store-re-remove{
+    position: absolute;
+    top: 60px;
+    right: 20px;
+    color: #FF0000;
+    font-size: 20px;
+    cursor: pointer;
+    z-index: 9;
+}
+
+/* Conditional */
+.ms-meta-box-conditional-container{
+    margin-top: 20px;
+}

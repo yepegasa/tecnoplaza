@@ -1,0 +1,1387 @@
+/* Genral CSS */
+.clearfix:after,
+.clearfix:before {
+    content: '';
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.customizer-hidden {
+    visibility: hidden;
+    opacity: 0;
+    height: 0;
+    position: absolute;
+    clip: rect(0, 0, 0, 0);
+    left: -1000px;
+}
+
+.customize-control-info p {
+    margin: 0;
+}
+
+.mce-floatpanel,
+.mce-tooltip {
+    z-index: 9999999 !important;
+}
+
+.customize-control select {
+    width: 98%;
+}
+
+/* Text Selector */
+
+.ms-text-radio-buttons {
+    border: 1px solid #a4afb7;
+    display: flex;
+}
+
+.ms-text-radio-button-label input{
+    display: none;
+}
+
+.ms-text-radio-button-label{
+    border-right: 1px solid #a4afb7;
+    flex-grow: 1;
+}
+
+.ms-text-radio-button-label:last-child{
+    border-right: none;
+}
+
+.ms-text-radio-button-label .ms-text-radio{
+    line-height: 10px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ms-text-radio-button-label input[type="radio"]:checked + .ms-text-radio{
+    background: #a4afb7;
+    color: #FFF;
+}
+
+.ms-text-radio-button-label .ms-text-radio span{
+    margin-right: 6px;
+    font-size: 13px;
+    height: auto;
+    width: auto;
+    transition: none;
+}
+
+.ms-text-radio-container.ms-label-block{
+    display: block;
+}
+
+.ms-text-radio-container.ms-label-block .ms-text-radio-buttons{
+    display: flex;
+}
+
+.ms-text-radio-container.ms-label-block .ms-text-radio-button-label{
+    flex-basis: 100%;
+}
+
+/* Choosen CSS */
+.chosen-container-single .chosen-single {
+    border-radius: 0px;
+    height: 28px;
+    background: #fff;
+    border-color: #dddddd;
+    line-height: 28px;
+    -webkit-box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.06);
+    box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.06);
+}
+
+.chosen-container-single .chosen-single div b {
+    background-position: 0px 4px;
+}
+
+.chosen-container-active.chosen-with-drop .chosen-single div b {
+    background-position: -18px 4px;
+}
+
+.chosen-container-multi .chosen-choices li {
+    float: none;
+}
+
+/* Checkbox CSS */
+.customize-control-checkbox label {
+    margin-left: 0;
+}
+
+.customize-control-checkbox input[type='checkbox'],
+.customize-control-ms-checkbox-multiple input[type='checkbox'] {
+    width: 20px;
+    height: 20px;
+    background: #fff;
+    -webkit-box-shadow: 0 0 1px #bcbcbc inset;
+    box-shadow: 0 0 1px #bcbcbc inset;
+    border: 0;
+    position: relative;
+    -webkit-transition: all 150ms ease-in;
+    transition: all 150ms ease-in;
+}
+
+.customize-control-checkbox input[type='checkbox']:checked,
+.customize-control-ms-checkbox-multiple input[type='checkbox']:checked {
+    -webkit-box-shadow: 0 0 1px transparent inset;
+    box-shadow: 0 0 1px transparent inset;
+}
+
+.customize-control-checkbox input[type='checkbox']:checked:before,
+.customize-control-ms-checkbox-multiple input[type='checkbox']:checked:before {
+    position: absolute;
+    left: 12px;
+    top: 7px;
+    width: 3px;
+    height: 8px;
+    border: solid #333;
+    border-width: 0 2px 2px 0;
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+    content: '';
+}
+
+/* Customizer Header */
+.customize-control-ms-heading h3,
+.customize-control-ms-typography .customize-control-title{
+    display: flex;
+    align-items: center;
+    color: #000;
+    margin: 10px 0;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.customize-control-ms-heading h3:before,
+.customize-control-ms-typography .customize-control-title:before{
+    content: '';
+    height: 10px;
+    background: #000;
+    width: 10px;
+    margin-right: 10px;
+}
+
+.customize-control-ms-heading h3:after,
+.customize-control-ms-typography .customize-control-title:after{
+    content: '';
+    height: 10px;
+    background: #000;
+    flex-grow: 1;
+    margin-left: 10px;
+}
+
+.customize-control-ms-typography .customize-control-title{
+    margin-bottom: 10px;
+}
+
+.customize-control-ms-heading .customize-control-description {
+    margin: 5px 0 0;
+}
+
+/* Customizer Tabs */
+.ms-customizer-tabs {
+    background: #FFF;
+    display: flex;
+    border-bottom: 3px solid #000;
+}
+
+.ms-customizer-tabs a {
+    padding: 12px 8px;
+    color: #333;
+    text-decoration: none;
+    text-transform: uppercase;
+    outline: 0;
+    box-shadow: none;
+    flex-basis: 0;
+    flex-grow: 1;
+    text-align: center;
+    white-space: nowrap;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 1;
+}
+
+.ms-customizer-tabs a:hover{
+    background: #EAEAEA;
+}
+
+.ms-customizer-tabs a.active {
+    background: #000;
+    color: #fff;
+}
+
+.ms-customizer-tabs a span{
+    display: block;
+    text-align: center;
+    width: 100%;
+    font-size: 16px;
+    line-height: 1;
+    transition: none;
+    margin-bottom: 3px;
+}
+
+/* Customizer Separator */
+.customize-control-ms-separator p {
+    margin: 5px 0;
+}
+
+.customize-control-ms-separator span {
+    display: block;
+    border-top: 1px solid #e4e4e4;
+    border-bottom: 1px solid #f9f9f9;
+}
+
+/* Customizer Icon Selector */
+.ms-icon-box-wrap .ms-icon-box {
+    display: none;
+}
+
+.ms-icon-box-wrap .ms-selected-icon {
+    background: #f6f6f6;
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+    border: 1px solid #eee;
+    position: relative;
+    margin-right: 44px;
+    cursor: pointer;
+    font-size: 22px;
+    width: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ms-icon-box-wrap .ms-selected-icon span i {
+    display: block;
+    line-height: 45px;
+}
+
+.ms-icon-box-wrap .ms-selected-icon span {
+    position: absolute;
+    background: #f6f6f6;
+    right: -45px;
+    top: -1px;
+    height: 45px;
+    width: 45px;
+    border: 1px solid #eee;
+    font-size: 16px;
+}
+
+.ms-icon-box-wrap .ms-icon-search {
+    padding: 10px;
+    background: #f7f7f7;
+    border: 1px solid #eee;
+    border-top: 0;
+}
+
+.ms-icon-box-wrap .ms-icon-search select {
+    margin-bottom: 10px;
+}
+
+.ms-icon-box-wrap .ms-icon-list {
+    height: 215px;
+    overflow-y: scroll;
+    font-size: 18px;
+    border: 1px solid #eee;
+    background: #fff;
+    border-right: 0;
+    border-top: 0;
+    padding-bottom: 4%;
+    display: none;
+    cursor: pointer;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+.ms-icon-box-wrap .ms-icon-list:first-of-type {
+    display: block;
+}
+
+.ms-icon-box-wrap .ms-icon-list li {
+    float: left;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    line-height: 40px;
+    border: 1px solid #eee;
+    border-radius: 3px;
+    font-size: 18px;
+    margin: 4px;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.ms-icon-box-wrap .ms-icon-list li:hover {
+    background: #333;
+    border: 1px solid #333;
+    color: #fff;
+    -webkit-transform: scale(1.15);
+    transform: scale(1.15);
+}
+
+.ms-icon-box-wrap .ms-icon-list li.icon-active {
+    background: #0073aa;
+    border: 1px solid #0073aa;
+    color: #fff;
+}
+
+/* Customizer Image Selector */
+.ms-selector-labels label {
+    display: inline-block;
+    padding: 0 10px 10px 0;
+    position: relative;
+    max-width: 50%;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+.ms-selector-labels.ht-full-width label {
+    display: block;
+    max-width: 100%;
+    margin-bottom: 20px;
+    padding: 0;
+}
+
+.ms-selector-labels.ht-half-width label {
+    max-width: 50%;
+    padding: 0 20px 20px 0;
+}
+
+.ms-selector-labels.ht-one-third-width label {
+    max-width: 33.33%;
+    padding: 0 10px 10px 0;
+}
+
+.ms-selector-labels.ht-one-forth-width label {
+    max-width: 25%;
+    padding: 0 10px 10px 0;
+}
+
+.ms-selector-labels label img {
+    vertical-align: middle;
+}
+
+.ms-selector-labels label.selector-selected:after {
+    content: '';
+    height: 25px;
+    width: 25px;
+    right: 0;
+    top: 0;
+    position: absolute;
+    background: url(images/selected.png) no-repeat right top;
+}
+
+/* Customizer Alpha Color */
+.customize-control-ms-alpha-color .wp-color-result span {
+    background: #f7f7f7;
+}
+
+.customize-control-ms-alpha-color .wp-picker-container input[type='text'].wp-color-picker {
+    height: 28px !important;
+}
+
+.customize-control-ms-alpha-color .wp-picker-container .wp-color-result.button {
+    padding: 0 0 0 32px !important;
+    line-height: 28px !important;
+    height: 28px !important;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+    border: 1px solid #ddd !important;
+}
+
+.customize-control-ms-alpha-color .wp-picker-container .color-alpha {
+    height: 28px !important;
+    width: 32px !important;
+}
+
+.customize-control-ms-alpha-color .wp-picker-container .wp-color-result-text {
+    line-height: 28px !important;
+    border-radius: 0 !important;
+    border-left: 1px solid #ddd !important;
+}
+
+.customize-control-ms-alpha-color .wp-picker-input-wrap .button {
+    height: 30px !important;
+    line-height: 28px !important;
+    margin-left: 5px;
+}
+
+/* Customzer Toggle */
+.ms-toggle-title {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 21px;
+    margin-top: -1px;
+    width: 70%;
+}
+
+.customize-control-ms-toggle p {
+    margin-bottom: 0;
+    margin-top: 5px;
+}
+
+.ms-toggle {
+    position: relative;
+    width: 52px;
+    display: inline-block;
+    float: right;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
+.ms-toggle-checkbox {
+    display: none !important;
+}
+
+.ms-toggle-label {
+    display: block;
+    overflow: hidden;
+    cursor: pointer;
+    height: 22px;
+    padding: 0;
+    line-height: 19px !important;
+    -webkit-transition: background-color 0.2s ease-in;
+    transition: background-color 0.2s ease-in;
+    border-radius: 30px;
+    background-color: #c4c4c4;
+    -webkit-box-shadow: inset 0 2px 1px rgba(0, 0, 0, 0.11);
+    box-shadow: inset 0 2px 1px rgba(0, 0, 0, 0.11);
+}
+
+.ms-toggle-label:before {
+    content: '';
+    display: block;
+    width: 18px;
+    height: 18px;
+    margin: 0;
+    position: absolute;
+    top: 2px;
+    bottom: 0;
+    right: 32px;
+    background-color: #fff;
+    -webkit-box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    -webkit-transition: all 0.2s ease-in 0s;
+    transition: all 0.2s ease-in 0s;
+}
+
+.ms-toggle-label:after {
+    content: 'OFF';
+    display: block;
+    color: #fff;
+    position: absolute;
+    top: 2px;
+    bottom: 2px;
+    right: 6px;
+    font-size: 11px;
+    font-family: 'Arial';
+}
+
+.ms-toggle-checkbox:checked + .ms-toggle-label,
+.ms-toggle-label.ms-toggle-on {
+    background-color: #adc75c;
+}
+
+.ms-toggle-checkbox:checked + .ms-toggle-label:before,
+.ms-toggle-label.ms-toggle-on:before {
+    right: 2px;
+}
+
+.ms-toggle-checkbox:checked + .ms-toggle-label:after,
+.ms-toggle-label.ms-toggle-on:after {
+    content: 'ON';
+    right: 27px;
+}
+
+/* Customizer Gradient */
+.ms-gradient-box .colorpicker,
+.ms-gradient-box .ms-gradient-picker {
+    z-index: 999999;
+}
+
+.ms-gradient-box {
+    border: 1px solid #d6d6d6;
+    padding: 10px;
+}
+
+.ms-gradient-box .ms-gradient-row {
+    margin-bottom: 10px;
+}
+
+.ms-gradient-box .ms-gradient-label {
+    display: block;
+    font-size: 13px;
+    line-height: 24px;
+    font-weight: 600;
+    margin-bottom: 4px;
+}
+
+.ms-gradient-box .ms-gradient-description {
+    display: block;
+    font-style: italic;
+    line-height: 18px;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.ms-gradient-box .ms-gradient-spread {
+    width: 45px;
+}
+
+.ms-gradient-box .ClassyGradient {
+    width: 238px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ms-gradient-box .ClassyGradient .info {
+    width: 180px;
+}
+
+.ms-gradient-box .ClassyGradient .info.rightindent .arrow {
+    margin-right: 10px;
+    margin-left: 0;
+    left: auto;
+    right: 0;
+}
+
+.ms-gradient-preview {
+    height: 100px;
+    width: 100%;
+}
+
+.ms-gradient-box .ui-widget-content.ms-gradient-range {
+    position: relative;
+    height: 4px;
+    background-color: rgba(0, 0, 0, 0.15);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.5s;
+}
+
+.ms-gradient-box .ui-slider .ui-slider-range {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    height: 100%;
+    background-color: #13a1dc;
+}
+
+.ms-gradient-box .ui-slider-horizontal .ui-slider-handle {
+    height: 16px;
+    width: 16px;
+    background-color: #fff;
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translateY(-50%) translateX(-4px);
+    transform: translateY(-50%) translateX(-4px);
+    -webkit-box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.ms-gradient-box .ms-gradient-angle-slider {
+    margin: 12px 5px 30px;
+    background: #ccc;
+}
+
+.ms-gradient-box .ui-slider-horizontal .ui-slider-handle span {
+    position: absolute;
+    top: 100%;
+    width: 70px;
+    text-align: center;
+    margin-left: -35px;
+    left: 7px;
+    font-size: 13px;
+}
+
+/* Customizer Background Image */
+.customize-control-background-image .ms-placeholder {
+    width: 100%;
+    position: relative;
+    text-align: center;
+    cursor: default;
+    border: 1px dashed #b4b9be;
+    box-sizing: border-box;
+    padding: 9px 0;
+    line-height: 20px;
+}
+
+.customize-control-background-image .ms-thumbnail img{
+    display: block;
+}
+
+.customize-control-background-image .ms-actions {
+    margin: 10px 0;
+}
+
+.customize-control-background-image .ms-background-image-fields li:not(.background-image-overlay) {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.customize-control-background-image .ms-background-image-fields li:not(.background-image-overlay) span.customize-control-title {
+    width: 40%;
+}
+
+.customize-control-background-image .ms-background-image-fields li select {
+    width: 60%;
+}
+
+.customize-control-background-image .background-image-overlay,
+.customize-control-background-image .background-image-color{
+    position: relative;
+}
+
+.customize-control-background-image .background-image-overlay .customize-control-title,
+.customize-control-background-image .background-image-color .customize-control-title{
+    margin-right: 40px;
+}
+
+/* Customizer Dimension */
+.customize-control-ms-dimensions > ul {
+    display: flex;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.customize-control-ms-dimensions .ms-dimension-wrap {
+    float: left;
+    flex-grow: 1;
+    margin: 0;
+    padding: 0;
+}
+
+.customize-control-ms-dimensions .ms-dimension-wrap input,
+.customize-control-ms-dimensions .ms-dimension-wrap button {
+    display: block;
+    font-size: 12px;
+    padding: 4px 0;
+    width: 100%;
+    height: 28px;
+    border: 1px solid;
+    border-color: #a4afb7;
+    border-left-width: 0;
+    border-radius: 0;
+    text-align: center;
+}
+
+.customize-control-ms-dimensions .ms-dimension-wrap:first-child input {
+    border-left-width: 1px;
+    border-radius: 3px 0 0 3px;
+}
+
+.customize-control-ms-dimensions .ms-dimension-wrap .ms-dimension-label {
+    display: block;
+    color: #949698;
+    font-size: 10px;
+    padding-top: 5px;
+    font-style: normal;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.customize-control-ms-dimensions .ms-dimension-wrap input:focus + .ms-dimension-label {
+    color: #42474a;
+}
+
+.customize-control-ms-dimensions .ms-dimension-wrap .ms-link-dimensions {
+    background-color: #fff;
+    border: 1px solid #a4afb7;
+    border-left-width: 0;
+    padding: 0;
+    outline: none;
+    border-radius: 0 3px 3px 0;
+    cursor: pointer;
+}
+
+.customize-control-ms-dimensions .ms-dimension-wrap .ms-link-dimensions span {
+    display: block;
+    width: 100%;
+    height: 28px;
+    line-height: 28px;
+    font-size: 16px;
+}
+
+.customize-control-ms-dimensions .ms-dimension-wrap .ms-link-dimensions .ms-linked {
+    background-color: #a4afb7;
+    color: #fff;
+}
+
+.customize-control-ms-dimensions .ms-dimension-wrap .ms-link-dimensions.unlinked .ms-unlinked {
+    display: none;
+}
+
+.customize-control-ms-dimensions .ms-dimension-wrap .ms-link-dimensions.unlinked .ms-linked {
+    display: block;
+}
+
+.customize-control-ms-dimensions .ms-dimension-wrap .ms-link-dimensions .ms-linked {
+    display: none;
+}
+
+.customize-control.has-switchers .customize-control-title {
+    display: flex;
+    line-height: 1;
+    margin-bottom: 10px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.customize-control.has-switchers .customize-control-title span {
+    line-height: 20px;
+}
+
+.customize-control .responsive-switchers {
+    margin-left: 5px;
+}
+
+.customize-control.responsive-switchers-open .responsive-switchers li {
+    display: block;
+}
+
+.customize-control .responsive-switchers li {
+    float: left;
+    margin: 0;
+}
+
+.customize-control .responsive-switchers li button {
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    background-color: #a4afb7;
+    position: relative;
+    margin-left: 5px;
+    color: #fff;
+    font-size: 10px;
+    text-align: center;
+    border-radius: 50%;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    -webkit-transition: background-color 0.5s;
+    transition: background-color 0.5s;
+    cursor: pointer;
+}
+
+.customize-control .responsive-switchers li button:hover {
+    background-color: #c2cbd2;
+}
+
+.customize-control .responsive-switchers li button.active {
+    background-color: #13aff0;
+}
+
+.customize-control .responsive-switchers li button i {
+    width: auto;
+    height: auto;
+    font-size: inherit;
+    line-height: 18px;
+}
+
+.customize-control.has-switchers > .control-wrap:not(.active) {
+    display: none;
+    width: 100%;
+}
+
+/* Customizer Responsive Range Slider */
+.customize-control-ms-responsive-range-slider .control-wrap {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.customize-control-ms-responsive-range-slider .ms-res-range-slider {
+    position: relative;
+    flex-grow: 1;
+    height: 4px;
+    background-color: rgba(0, 0, 0, 0.15);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.5s;
+}
+
+.customize-control-ms-responsive-range-slider .ms-res-range-slider:hover {
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.customize-control-ms-responsive-range-slider .ms-res-range-slider .ui-slider-range {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    height: 100%;
+    background-color: #13a1dc;
+}
+
+.customize-control-ms-responsive-range-slider .ms-res-range-slider .ui-slider-handle {
+    height: 16px;
+    width: 16px;
+    background-color: #fff;
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translateY(-50%) translateX(-4px);
+    transform: translateY(-50%) translateX(-4px);
+    -webkit-box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.customize-control-ms-responsive-range-slider .ms-res-range-slider-input {
+    margin-left: 15px;
+}
+
+.customize-control-ms-responsive-range-slider input.slider-input {
+    width: 60px;
+    height: 28px;
+    text-align: center;
+    border-radius: 4px;
+    padding: 3px;
+    font-size: 12px;
+    font-weight: 600;
+    color: #555;
+}
+
+.customize-control-ms-responsive-range-slider .ms-res-range-slider-unit{
+    margin-left: 5px;
+}
+
+/* Customizer Sortable */
+.customize-control-ms-sortable ul li {
+    padding: 8px 10px;
+    line-height: 20px;
+    border: 1px solid #ccc;
+    background: #fff;
+}
+
+.customize-control-ms-sortable ul li .dashicons.dashicons-menu {
+    float: right;
+}
+
+.customize-control-ms-sortable ul li .dashicons.visibility {
+    color: #49aed8;
+    margin-right: 10px;
+}
+
+.customize-control-ms-sortable ul li.invisible {
+    color: #aaa;
+    border: 1px dashed #aaa;
+}
+
+.customize-control-ms-sortable ul li.invisible .dashicons.visibility {
+    color: #aaa;
+}
+
+/* Range Slider */
+.customize-control-ms-range-slider .customize-control-title{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.customize-control-ms-range-slider .ms-slider-reset {
+    float: right;
+    cursor: pointer;
+    font-size: 14px;
+    color: #999;
+    line-height: 18px;
+}
+
+.customize-control-ms-range-slider .control-wrap {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.customize-control-ms-range-slider .ms-range-slider {
+    display: inline-block;
+    position: relative;
+    width: 67%;
+    height: 4px;
+    margin: 12px 0;
+    background-color: rgba(0, 0, 0, 0.15);
+    border-radius: 5px;
+    cursor: pointer;
+    -webkit-transition: background 0.5s;
+    transition: background 0.5s;
+}
+
+.customize-control-ms-range-slider .ms-range-slider:hover {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.customize-control-ms-range-slider .ui-slider-range {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    height: 100%;
+    background-color: #13a1dc;
+}
+
+.customize-control-ms-range-slider .ui-slider-handle {
+    height: 16px;
+    width: 16px;
+    background-color: #fff;
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translateY(-50%) translateX(-4px);
+    transform: translateY(-50%) translateX(-4px);
+    -webkit-box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.customize-control-ms-range-slider .ms-range-slider-input {
+    float: right;
+    width: 33%;
+}
+
+.customize-control-ms-range-slider input.ms-slider-input {
+    float: right;
+    width: 80%;
+    height: 28px;
+    text-align: center;
+    border-radius: 4px;
+    padding: 3px;
+    font-size: 12px;
+    font-weight: 600;
+    color: #555;
+}
+
+.customize-control-ms-range-slider .ms-range-slider-unit{
+    margin-left: 5px;
+}
+
+/* Customizer Color Tab */
+.ms-color-content-wrap{
+    position: relative;
+}
+
+.customize-control-ms-color-tab .customize-control-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.customize-control-ms-color-tab .ms-color-tab-toggle {
+    color: #555;
+    border: 1px solid #ccc;
+    background: #f7f7f7;
+    box-shadow: 0 1px 0 #ccc;
+    vertical-align: middle;
+    width: 40px;
+    text-align: center;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.customize-control-ms-color-tab .ms-color-tab-toggle .dashicons {
+    line-height: 30px;
+    height: 30px;
+}
+
+.customize-control-ms-color-tab .ms-color-tab-wrap {
+    position: relative;
+    background: #fff;
+    padding: 10px;
+    margin-top: 18px;
+}
+
+.customize-control-ms-color-tab .ms-color-tab-wrap:before {
+    content: '';
+    position: absolute;
+    bottom: 100%;
+    right: 10px;
+    border-style: solid;
+    border-color: transparent transparent #fff;
+    border-width: 14px;
+}
+
+.customize-control-ms-color-tab .ms-color-tab-switchers li {
+    display: inline-block;
+    margin: 0 0 -1px;
+    padding: 10px 20px;
+    font-weight: 600;
+    text-align: center;
+    color: #aaa;
+    border: 1px solid transparent;
+    cursor: pointer;
+}
+
+.customize-control-ms-color-tab .ms-color-tab-switchers li.active {
+    color: #0af;
+    border: 1px solid #ddd;
+    border-top: 2px solid #0af;
+    border-bottom: 1px solid #fff;
+}
+
+.customize-control-ms-color-tab .ms-color-tab-contents {
+    border-top: 1px solid #ddd;
+    padding: 10px 0 0;
+}
+
+.customize-control-ms-color-tab .color-content-wrap {
+    margin-bottom: 10px;
+}
+
+.customize-control-ms-color-tab .ms-color-tab-label {
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+/* Customizer Switch */
+.customize-control-ms-switch .customize-control-title {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 4px;
+    margin-bottom: 0;
+    width: 65%;
+    letter-spacing: 0.2px;
+}
+
+.ms-switch {
+    position: relative;
+    float: right;
+    width: 60px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.ms-switch-inner {
+    width: 200%;
+    margin-left: -100%;
+    -webkit-transition: margin 0.3s ease-in 0s;
+    transition: margin 0.3s ease-in 0s;
+}
+
+.ms-switch-inner > div {
+    float: left;
+    position: relative;
+    width: 50%;
+    height: 30px;
+    padding: 0;
+    color: #fff;
+    font-weight: normal;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.ms-switch-inner .ms-switch-active {
+    background-color: #fff;
+    color: #fff;
+    border: 1px solid #e4e4e4;
+    background: #e4e4e4;
+}
+
+.ms-switch-inner .ms-switch-inactive {
+    background-color: #fff;
+    color: #fff;
+    text-align: right;
+    background: #e4e4e4;
+}
+
+.ms-switch-button {
+    width: 30px;
+    text-align: center;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: 3px;
+    font-size: 12px;
+    line-height: 24px;
+}
+
+.ms-switch-active .ms-switch-button {
+    background: #adc75c;
+    left: 0;
+}
+
+.ms-switch-inactive .ms-switch-button {
+    background: #db6159;
+    right: 0;
+}
+
+.ms-switch-on .ms-switch-inner {
+    margin-left: 0;
+}
+
+/* Customizer Repeater */
+.ms-repeater-field-control {
+    background: #fff;
+    margin-bottom: 12px;
+    display: block;
+}
+
+.ms-repeater-footer {
+    margin-top: 15px;
+    text-align: right;
+}
+
+.ms-repeater-field-control:first-child
+.ms-repeater-footer {
+    display: none;
+}
+
+.ms-repeater-field-title {
+    padding: 13px 15px;
+    line-height: 1;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    margin: 0;
+    font-size: 1em;
+    border: 1px solid #e5e5e5;
+    cursor: move;
+    position: relative;
+    border-bottom: 0;
+}
+
+.ms-repeater-field-title:after {
+    content: '\f142';
+    font: 400 20px/1 dashicons;
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 1px 2px 1px 0;
+    margin-top: 10px;
+    margin-right: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.ms-repeater-field-control.expanded
+.ms-repeater-field-title:after {
+    content: '\f140';
+}
+
+.ms-repeater-fields {
+    padding: 0 10px 10px;
+    border-top: none;
+    line-height: 16px;
+    border: 1px solid #e5e5e5;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+    display: none;
+}
+
+.ms-repeater-fields .customize-control-repeater-title {
+    display: block;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 600;
+    margin-bottom: 4px;
+    margin-top: 10px;
+}
+
+.ms-repeater-field-control.expanded .ms-repeater-fields {
+    display: block;
+}
+
+.ms-add-control-field {
+    float: right;
+}
+
+.ms-add-control-field:before {
+    content: '\f132';
+    display: inline-block;
+    position: relative;
+    left: -2px;
+    top: -1px;
+    font: 400 18px/1 dashicons;
+    vertical-align: middle;
+}
+
+.ms-fields textarea {
+    width: 100%;
+    min-height: 100px;
+}
+
+.ms-fields select {
+    width: 100%;
+}
+
+.ms-fields .attachment-media-view {
+    background: none;
+}
+
+.ms-fields.ms-type-toggle{
+    margin-top: 10px;
+}
+
+/* Customizer Image Selector */
+.ms-image-container{
+    margin-top: 10px;
+    width: 98%;
+}
+
+/* Customizer Panel & Sections Icons */
+.customize-pane-parent .control-section .accordion-section-title:before,
+#accordion-section-meta-store-import-section .ms-accordion-section-title:before,
+#accordion-section-meta-store-doc-section .ms-accordion-section-title:before{
+    font-family: 'IcoFont';
+    content: '\ef3a';
+    font-size: 14px;
+    margin-right: 4px;
+    vertical-align: middle;
+    font-weight: normal;
+}
+
+#accordion-section-static_front_page .accordion-section-title:before {
+    content: '\ef47';
+}
+
+#accordion-section-meta_store_general_settings .accordion-section-title:before {
+    content: '\efe2';
+}
+
+#accordion-section-colors .accordion-section-title:before {
+    content: '\ede7';
+}
+
+#accordion-panel-meta_store_typography .accordion-section-title:before {
+    content: '\ebf1';
+}
+
+#accordion-panel-meta_store_header_settings .accordion-section-title:before {
+    content: '\ef52';
+}
+
+#accordion-section-meta_store_footer_settings .accordion-section-title:before {
+    content: '\ef52';
+}
+
+#accordion-section-meta_store_sidebar_settings .accordion-section-title:before {
+}
+
+#accordion-panel-meta_store_blog_settings_panel .accordion-section-title:before {
+    content: '\eae7';
+}
+
+#accordion-section-meta-store-import-section .ms-accordion-section-title:before {
+    content: '\ef08';
+}
+
+#accordion-section-meta-store-doc-section .ms-accordion-section-title:before {
+    content: '\ead1';
+}
+
+#accordion-section-background_image .accordion-section-title:before {
+}
+
+#accordion-panel-nav_menus .accordion-section-title:before {
+}
+
+#accordion-panel-widgets .accordion-section-title:before {
+}
+
+#accordion-section-meta_store_social_icons_section .accordion-section-title:before {
+    content: '\ec84';
+}
+
+#accordion-section-custom_css .accordion-section-title:before {
+}
+
+#accordion-section-meta_store_additional_settings .accordion-section-title:before {
+    content: '\ef72';
+}
+
+.ms-info-control {
+    position: relative;
+    background: #020202;
+    padding: 12px 15px;
+    color: #fff;
+    border-radius: 6px;
+    margin-top: 15px;
+}
+
+.ms-info-control:after {
+    content: 'Available in Pro';
+    position: absolute;
+    top: -10px;
+    left: 10px;
+    display: inline-block;
+    background: #f44336;
+    padding: 1px 10px;
+    border-radius: 4px;
+    font-size: 10px;
+    letter-spacing: 1.2px;
+}
+
+.ms-info-control a,
+.ms-info-control a.button{
+    background: #FFF;
+    padding: 6px 10px;
+    border-radius: 4px;
+    text-decoration: none;
+    color: #000;
+    line-height: 1;
+    display: inline-block;
+    margin-top: 5px;
+    min-height: 0;
+    border: 0;
+    box-shadow: none;
+}
+
+/*Upgrade Section*/
+
+.control-section-ms-upgrade-section{
+    padding: 10px 10px 11px 14px;
+    line-height: 1.55;
+    font-size: 14px;
+}
+
+.control-section-ms-upgrade-section .accordion-section-title:before{
+    display: none;
+}
+
+#accordion-section-meta-store-pro-section{
+    text-align: center;
+}
+
+#accordion-section-meta-store-pro-section .button {
+    height: auto;
+    line-height: 1;
+    text-transform: uppercase;
+    padding: 10px 25px;
+    white-space: normal;
+    background-color: #ff262b;
+    border: none;
+    color: #FFF;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#accordion-section-meta-store-import-section,
+#accordion-section-meta-store-doc-section{
+    background: #FFF;
+    color: #50575e;
+    background-color: #fff;
+    font-weight: bold;
+    border-bottom: 1px solid #dcdcde !important;
+    border-left: 4px solid #fff !important;
+}
+
+#accordion-section-meta-store-import-section .button,
+#accordion-section-meta-store-doc-section .button{
+    float: right;
+    margin-top: -2px;
+}

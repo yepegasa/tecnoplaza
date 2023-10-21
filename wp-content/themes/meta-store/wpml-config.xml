@@ -1,0 +1,10 @@
+<wpml-config>
+<admin-texts>
+<key name="theme_mods_meta-store">
+    <key name="meta_store_th_text" />
+    <key name="meta_store_toggle_menu_label" />
+    <key name="meta_store_footer_copyright" />
+    <key name="meta_store_archive_readmore" />
+</key>
+</admin-texts>
+</wpml-config>

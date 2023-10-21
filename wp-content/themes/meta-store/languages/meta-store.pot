@@ -1,0 +1,2484 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Meta Store\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-12 05:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.7.4\n"
+"X-Domain: meta-store"
+
+#: inc/theme-options/includes/helpers.php:27
+msgid " -- Choose Menu -- "
+msgstr ""
+
+#: inc/hooks/sections/blog-actions.php:223
+#: inc/hooks/sections/header-actions.php:232
+msgid "% Comments"
+msgstr ""
+
+#: welcome/sections/getting_started.php:106
+#, php-format
+msgid ""
+"%1$s by itself is a powerful tool to Create an engaging Ecommerce website. "
+"However, upgrading to pro version will unlock even more possiblities to "
+"create more dynamic ecommerce websites."
+msgstr ""
+
+#. 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#. 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: welcome/welcome.php:124
+#, php-format
+msgid ""
+"%1$s is now installed and ready to use. You can learn to create the site "
+"using a straight forward Documentation."
+msgstr ""
+
+#. number of items in the mini cart.
+#: inc/woocommerce.php:275
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: welcome/sections/getting_started.php:27
+#, php-format
+msgid "%s Demo"
+msgstr ""
+
+#: welcome/welcome.php:171
+#, php-format
+msgid "%s Settings"
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:136
+msgid "&copy; 2021 Meta Store. All Right Reserved."
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:190
+msgid "(IE10+, Chrome, Firefox, Safari, Opera, Edge)"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:503
+msgid "+ 474 876543210"
+msgstr ""
+
+#: inc/theme-options/options/general-settings.php:103
+msgid "- 15 Predesigned Preloaders"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:449
+msgid "- Add Search & CTA button in menu"
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:75
+msgid "- Add unlimited widget areas"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:648
+msgid "- Advanced Color & Typography Options for Title & Tagline texts."
+msgstr ""
+
+#: inc/theme-options/options/sidebar-settings.php:124
+msgid ""
+"- Choose different sidebar layouts for Product Category, Tag Page and Single "
+"Product Page"
+msgstr ""
+
+#: inc/theme-options/options/general-settings.php:103
+msgid "- Custom Preloader Upload"
+msgstr ""
+
+#: inc/theme-options/options/sidebar-settings.php:124
+msgid "- Custom Typography"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:258
+msgid "- Custom Unique Typography Option"
+msgstr ""
+
+#: inc/theme-options/options/general-settings.php:127
+msgid "- Customization for button colors, type, size, position & many more"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:449
+msgid "- Display different menu in mobile"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:648
+msgid "- Display logo along with title and tagline in same line"
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:75
+msgid "- Footer background options"
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:75
+msgid "- Footer column width resizer"
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:75
+msgid "- Footer Typography"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:449
+msgid "- Full Color and Spacing Customization option for menu"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:258
+#: inc/theme-options/options/header-settings.php:420
+#: inc/theme-options/options/header-settings.php:449
+msgid "- Full Width Option"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:258
+msgid "- Gradient Background Option"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:420
+msgid "- Image or Gradient Background Option"
+msgstr ""
+
+#: inc/theme-options/options/color-settings.php:80
+msgid ""
+"- More advanced color customization for individual sections and elements"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:137
+msgid "- More Blog Page layouts"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:222
+msgid "- More Single Post layouts"
+msgstr ""
+
+#: inc/theme-options/options/general-settings.php:103
+msgid "- Preloader and Background Color Customization"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:449
+msgid "- Sticky Header"
+msgstr ""
+
+#: inc/theme-options/options/sidebar-settings.php:124
+msgid "- Sticky Sidebar"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:449
+msgid "- Various Menu Hover styles"
+msgstr ""
+
+#: inc/theme-options/includes/helpers.php:10
+msgid "-- Choose Widget --"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:90
+msgid "1"
+msgstr ""
+
+#: inc/hooks/sections/blog-actions.php:223
+#: inc/hooks/sections/header-actions.php:232
+msgid "1 Comment"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:91
+msgid "15"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:108
+msgid "2"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:10 welcome/inc/comparison_datas.php:54
+#: welcome/inc/comparison_datas.php:55
+msgid "3"
+msgstr ""
+
+#: 404.php:15
+msgid "404"
+msgstr ""
+
+#: inc/hooks/sections/header-actions.php:291
+msgid "404 Error"
+msgstr ""
+
+#: inc/breadcrumbs.php:144
+msgid "404 Not Found"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:11
+msgid "7"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:109
+msgid "9"
+msgstr ""
+
+#: meta-box-class/class-usage-demo.php:171
+msgid ""
+"<small>Turn ON if you want to enable the <strong>conditinal fields</strong>."
+"</small>"
+msgstr ""
+
+#: inc/theme-options/options/general-settings.php:117
+msgid "A button on click scrolls to the top of the page."
+msgstr ""
+
+#: welcome/welcome.php:161
+msgid "Action Failed. Something is Wrong."
+msgstr ""
+
+#: welcome/welcome.php:327 inc/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: welcome/welcome.php:226
+msgid "Activated"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/theme-options/options/social-icons.php:48
+msgid "Add Link"
+msgstr ""
+
+#: inc/theme-options/options/social-icons.php:39
+msgid "Add New"
+msgstr ""
+
+#. To add an additional character subset specific to your language,
+#. translate this to 'greek', 'cyrillic', 'devanagari' or 'vietnamese'. Do not translate into your own language.
+#: functions.php:257
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: inc/theme-options/options/social-icons.php:5
+msgid "Add social icons for the header"
+msgstr ""
+
+#: inc/theme-options/options/social-icons.php:36
+msgid "Add Social Link"
+msgstr ""
+
+#: functions.php:137
+msgid "Add widgets for footer 1."
+msgstr ""
+
+#: functions.php:147
+msgid "Add widgets for footer 2."
+msgstr ""
+
+#: functions.php:157
+msgid "Add widgets for footer 3."
+msgstr ""
+
+#: functions.php:167
+msgid "Add widgets for footer 4."
+msgstr ""
+
+#: functions.php:117 functions.php:127
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:245
+#, php-format
+msgid "Add your %s here"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:76
+msgid "Admin Logo Option"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:17 welcome/inc/comparison_datas.php:97
+#: welcome/inc/comparison_datas.php:122
+msgid "Advanced"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:560
+msgid ""
+"Advanced Customization options with separate typography options for toggle "
+"section."
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:20
+msgid "Advanced Mega Menu"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:119
+msgid "Advanced Toggle Menu"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:38
+msgid "Ajax/Live Search"
+msgstr ""
+
+#: inc/woocommerce.php:321 inc/woocommerce.php:352
+msgid "All Category"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. 1: dashboard link.
+#: inc/tgm/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#. 1: plugin name, 2: error message.
+#: inc/tgm/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:329
+msgid "Anchor(Link) Color"
+msgstr ""
+
+#: inc/theme-options/options/sidebar-settings.php:54
+msgid "Applies to all Archive Pages."
+msgstr ""
+
+#: inc/theme-options/options/sidebar-settings.php:18
+msgid "Applies to all the General Pages and Portfolio Pages."
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:677
+msgid "Applies to all the General Pages."
+msgstr ""
+
+#: inc/theme-options/options/sidebar-settings.php:36
+msgid "Applies to all the Posts."
+msgstr ""
+
+#: inc/theme-options/options/sidebar-settings.php:72
+msgid "Applies to Blog Page."
+msgstr ""
+
+#: inc/theme-options/options/sidebar-settings.php:90
+msgid "Applies to Search Page."
+msgstr ""
+
+#: inc/theme-options/options/sidebar-settings.php:108
+msgid ""
+"Applies to Shop Page, Product Category, Product Tag and all Single Products "
+"Pages."
+msgstr ""
+
+#: woocommerce/cart/cart.php:161
+msgid "Apply Coupon"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:47
+msgid "Archive Content"
+msgstr ""
+
+#: inc/theme-options/options/sidebar-settings.php:52
+msgid "Archive Page Layout"
+msgstr ""
+
+#: inc/breadcrumbs.php:145
+msgid "Archives"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:234
+msgid "Attachment"
+msgstr ""
+
+#: woocommerce/cart/cart.php:99
+msgid "Available on backorder"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/theme-options/options/general-settings.php:116
+msgid "Back to Top Button"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:284
+#: inc/theme-options/options/header-settings.php:436
+#: inc/theme-options/custom-controls/background-image-control.php:235
+msgid "Background Color"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:16 welcome/inc/comparison_datas.php:96
+#: welcome/inc/comparison_datas.php:121 welcome/inc/comparison_datas.php:128
+msgid "Basic"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/theme-options/options/blog-settings.php:20
+msgid "Blog & Archive Layout"
+msgstr ""
+
+#: inc/theme-options/options/sidebar-settings.php:70
+msgid "Blog Page Layout"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:10
+msgid "Blog/Archive Page Settings"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:4
+msgid "Blog/Single Post Settings"
+msgstr ""
+
+#: inc/theme-options/options/typography.php:12
+msgid "Body"
+msgstr ""
+
+#: inc/theme-options/options/typography.php:56
+msgid "Body Typography"
+msgstr ""
+
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:344
+msgid "Bold"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:39
+msgid ""
+"Boost your user experience by providing a user\n"
+"                    friendly ajax powered search form"
+msgstr ""
+
+#: inc/theme-options/custom-controls/dimensions-control.php:179
+#: inc/theme-options/custom-controls/dimensions-control.php:183
+#: inc/theme-options/custom-controls/dimensions-control.php:187
+msgid "Bottom"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:305
+msgid "Bottom Border Color"
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:131
+msgid "Bottom Footer"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:425
+msgid "Bottom Header"
+msgstr ""
+
+#: inc/theme-options/options/general-settings.php:38
+msgid "Boxed"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:781
+msgid "BreadCrumb"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:771
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:801
+msgid "Breadcrumb Link Color"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:791
+msgid "Breadcrumb Text Color"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:782
+msgid ""
+"Breadcrumbs are a great way of letting your visitors find out where they are "
+"on your site."
+msgstr ""
+
+#: inc/breadcrumbs.php:142
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/breadcrumbs.php:141
+msgid "Browse:"
+msgstr ""
+
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:377
+msgid "Capitalize"
+msgstr ""
+
+#: inc/template-functions.php:83
+#: inc/theme-options/options/header-settings.php:515
+msgid "Categories"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:107
+msgid "Center"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:271
+msgid "Center Bottom"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:270
+msgid "Center Center"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:269
+msgid "Center Top"
+msgstr ""
+
+#: welcome/sections/getting_started.php:17
+msgid "Change the settings and options with the guidance of the documentation."
+msgstr ""
+
+#: welcome/sections/getting_started.php:45
+#, php-format
+msgid ""
+"Check out the websites that you can create with the premium version of the "
+"%s Theme. These demos can be imported with just one click in the premium "
+"version."
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:183
+msgid "Child Theme Ready"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:46
+msgid ""
+"Choose between traditional boxed layout or modern\n"
+"                    wide layout for your site."
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:95
+msgid "Choose from 600+ Google fonts & variations"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:107
+msgid "Choose from nine available hover styles for the site"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:548
+msgid "Click"
+msgstr ""
+
+#: welcome/sections/getting_started.php:16
+msgid "Click on any of the setting panels & sections."
+msgstr ""
+
+#: welcome/welcome.php:136
+msgid ""
+"Click on the link below to learn on how to setup your site using the theme "
+"from the scratch."
+msgstr ""
+
+#: welcome/sections/demo_import.php:6
+msgid "Click the link below and view all the available demos for installation."
+msgstr ""
+
+#: inc/theme-options/custom-controls/repeater-control.php:298
+msgid "Close"
+msgstr ""
+
+#: inc/theme-options/options/color-settings.php:60
+msgid "Color applies for link text in the content area."
+msgstr ""
+
+#: inc/theme-options/options/color-settings.php:38
+msgid "Color applies for tags (H1, H2, H3, H4, H5, H6)"
+msgstr ""
+
+#: inc/theme-options/options/color-settings.php:49
+msgid "Color applies for text in the content area."
+msgstr ""
+
+#: inc/theme-options/options/color-settings.php:4
+msgid "Color Settings"
+msgstr ""
+
+#. %s is the page number.
+#: inc/breadcrumbs.php:151
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: welcome/welcome.php:41
+msgid "Compare between Free & Pro."
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:27
+msgid "Compatible with one of the most popular Ecommerce Plugin in WordPress"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:6
+msgid "Configure header settings"
+msgstr ""
+
+#: welcome/welcome.php:123
+msgid "Congratulations!"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:509
+msgid "Contact No."
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:260
+msgid "Contain"
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:18
+#: inc/theme-options/options/header-settings.php:64
+msgid "Content"
+msgstr ""
+
+#: inc/theme-options/options/color-settings.php:26
+msgid "Content Color"
+msgstr ""
+
+#: inc/theme-options/options/color-settings.php:59
+msgid "Content Link Color"
+msgstr ""
+
+#: inc/theme-options/options/color-settings.php:70
+msgid "Content Link Hover Color"
+msgstr ""
+
+#: inc/theme-options/options/color-settings.php:48
+msgid "Content Text Color"
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:142
+msgid "Copyright Text"
+msgstr ""
+
+#: woocommerce/cart/cart.php:161
+msgid "Coupon Code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:161
+msgid "Coupon code"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:259
+msgid "Cover"
+msgstr ""
+
+#: welcome/sections/support.php:13 welcome/sections/support.php:15
+msgid "Create Support Tickets"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:189
+msgid "Cross-Browser Compatibility"
+msgstr ""
+
+#: inc/theme-options/custom-controls/graident-control.php:64
+msgid "Custom Angle Spread"
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:143
+msgid "Custom HTMl and Shortcodes Supported"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:100
+msgid "Custom Scroll to Top Button"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:101
+msgid "Customize Scroll to top button for easy site navigation"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:120
+msgid "Customize Toggle Menu to display intuitive "
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:33
+msgid ""
+"Customize your website with one of the most popular Sitebuilder plugin in "
+"WordPress"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:139
+msgid "Customizer Based"
+msgstr ""
+
+#: inc/breadcrumbs.php:549 inc/breadcrumbs.php:975
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:137
+msgid "Date"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:156
+#: inc/theme-options/options/header-settings.php:175
+msgid "Date & Time"
+msgstr ""
+
+#: welcome/welcome.php:323
+msgid "Deactivate"
+msgstr ""
+
+#: welcome/welcome.php:227
+msgid "Deactivated"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:129
+msgid "Dedicated"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:133
+msgid ""
+"Dedicated option to display customer engaging Call to\n"
+"                    Action button in menu"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:258
+msgid "Default"
+msgstr ""
+
+#: inc/theme-options/custom-controls/graident-control.php:71
+msgid "Define Custom Angle"
+msgstr ""
+
+#: inc/theme-options/custom-controls/graident-control.php:43
+msgid "Define Gradient Colors"
+msgstr ""
+
+#: inc/theme-options/custom-controls/graident-control.php:45
+msgid "Define Gradient Direction"
+msgstr ""
+
+#: inc/theme-options/custom-controls/repeater-control.php:297
+msgid "Delete"
+msgstr ""
+
+#: welcome/welcome.php:150
+msgid "Dismiss"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:97
+#: inc/theme-options/options/blog-settings.php:182
+msgid "Display Author"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:21
+msgid "Display beautiful multi-columned drop-down menus"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:172
+msgid "Display Categories"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:117
+msgid "Display Category"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:107
+msgid "Display Comment"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:202
+msgid "Display Comment Count"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:77
+msgid "Display custom logo in login page"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:132
+msgid "Display in Center Header"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:151
+msgid "Display in Left Header"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:170
+msgid "Display in Right Header"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:104
+msgid "Display Options"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:87
+#: inc/theme-options/options/blog-settings.php:192
+msgid "Display Posted Date"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:89
+msgid "Display preloader while loading the website"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:589
+msgid "Display Site Tagline"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:577
+msgid "Display Site Title"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:127
+msgid "Display Tag"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:212
+msgid "Display Tags"
+msgstr ""
+
+#: welcome/welcome.php:137 welcome/sections/support.php:3
+msgid "Documentation"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:14
+msgid "Dynamic Color Options"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:59
+msgid "Easy way to customize width & layout for the website footer"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:30
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/theme-options/custom-controls/repeater-control.php:229
+msgid "Elegant Icon"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:32
+msgid "Elementor Compatible"
+msgstr ""
+
+#: inc/theme-options/options/social-icons.php:53
+msgid "Enable"
+msgstr ""
+
+#: meta-box-class/class-usage-demo.php:170
+msgid "Enable conditinal fields? "
+msgstr ""
+
+#: inc/theme-options/options/general-settings.php:92
+msgid "Enable Preloader"
+msgstr ""
+
+#: welcome/welcome.php:344 welcome/welcome.php:383 welcome/welcome.php:407
+msgid "Error - unable to verify nonce, please try again."
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:50
+msgid "Excerpt"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:72
+msgid "Excerpt Length(Letters)"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:33
+msgid "Exclude Category"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:126
+msgid ""
+"Fast & Reliable support via our customer friendly support\n"
+"                    team"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:65
+msgid "Fix the sidebar to its position"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:274
+msgid "Fixed"
+msgstr ""
+
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:52
+msgid "Font Color"
+msgstr ""
+
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:45
+msgid "Font Family"
+msgstr ""
+
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:49
+msgid "Font Size"
+msgstr ""
+
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:46
+msgid "Font Weight/Style"
+msgstr ""
+
+#: functions.php:135
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:145
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:155
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:165
+msgid "Footer 4"
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:122
+msgid "Footer Anchor Color"
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:99
+msgid "Footer Border Color"
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:58
+msgid "Footer Columns"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:58
+msgid "Footer Layout Customization"
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:5
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:111
+msgid "Footer Text Color"
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:89
+msgid "Footer Title Color"
+msgstr ""
+
+#: inc/theme-options/custom-controls/graident-control.php:44
+msgid ""
+"For a gradient, at least one starting and one end color should be defined."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:13
+msgid "Free"
+msgstr ""
+
+#: welcome/sections/header.php:17
+msgid "Free Demos Previews"
+msgstr ""
+
+#: welcome/welcome.php:40
+msgid "Free vs Pro"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:49
+msgid "Full Content"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:112
+msgid "GDPR Compatible & Customization"
+msgstr ""
+
+#: inc/theme-options/options/general-settings.php:5
+msgid "General Settings"
+msgstr ""
+
+#: welcome/welcome.php:144
+msgid "Get Started"
+msgstr ""
+
+#: welcome/welcome.php:25
+msgid "Getting Started"
+msgstr ""
+
+#: welcome/sections/getting_started.php:3
+msgid ""
+"Getting use to site building using the theme can be pretty daunting task "
+"especially if you are new to the WordPress. Here we have provide you a "
+"couple of ways to may familiarize you with the theme."
+msgstr ""
+
+#: welcome/sections/getting_started.php:15
+msgid "Go to Appearance > Customize"
+msgstr ""
+
+#: welcome/sections/getting_started.php:19
+msgid "Go to Customizer Panels"
+msgstr ""
+
+#: welcome/sections/getting_started.php:33
+msgid "Go to Dashboard > Appearanse > Swift Demo Import."
+msgstr ""
+
+#: welcome/welcome.php:146
+msgid "Go to Setting Page"
+msgstr ""
+
+#: inc/theme-options/custom-controls/graident-control.php:46
+msgid "Gradient Preview"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:458
+msgid "Header Contents"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:52
+#: inc/theme-options/options/header-settings.php:16
+#: inc/theme-options/options/header-settings.php:27
+msgid "Header Layouts"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:5
+msgid "Header Settings"
+msgstr ""
+
+#: inc/theme-options/options/typography.php:118
+msgid "Header Typography"
+msgstr ""
+
+#: inc/theme-options/options/typography.php:78
+msgid "Headers(H1, H2, H3, H4, H5, H6)"
+msgstr ""
+
+#: inc/theme-options/options/color-settings.php:37
+msgid "Heading Color"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:269
+msgid "Height"
+msgstr ""
+
+#: welcome/welcome.php:46
+msgid "Help & Support"
+msgstr ""
+
+#: welcome/welcome.php:145
+#, php-format
+msgid ""
+"Here you will find all the necessary links and settings on how to use %s."
+msgstr ""
+
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:252
+msgid "Hex Value"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/breadcrumbs.php:143
+msgid "Home"
+msgstr ""
+
+#: 404.php:17
+msgid "Homepage"
+msgstr ""
+
+#: inc/theme-options/custom-controls/graident-control.php:63
+msgid "Horizontal Spread (Left To Right)"
+msgstr ""
+
+#: inc/breadcrumbs.php:538
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:549
+#: inc/theme-options/custom-controls/color-tab-control.php:137
+msgid "Hover"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:136
+#: inc/theme-options/options/header-settings.php:155
+#: inc/theme-options/options/header-settings.php:174
+msgid "HTML Text"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:233
+msgid "Html Text"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://mysticalthemes.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://mysticalthemes.com/theme/meta-store/"
+msgstr ""
+
+#: inc/theme-options/custom-controls/repeater-control.php:221
+msgid "Ico Font"
+msgstr ""
+
+#: inc/theme-options/theme-options.php:79
+#: inc/theme-options/options/typography.php:201
+msgid "Import"
+msgstr ""
+
+#: inc/theme-options/theme-options.php:77
+msgid "Import Demo Content"
+msgstr ""
+
+#: welcome/welcome.php:35
+msgid "Import Demos"
+msgstr ""
+
+#: welcome/sections/getting_started.php:25
+msgid "Import Pre-Made Demos"
+msgstr ""
+
+#: welcome/welcome.php:319 inc/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: welcome/welcome.php:316
+msgid "Install & Activate"
+msgstr ""
+
+#: welcome/sections/getting_started.php:32
+msgid "Install & Activate 'Swift Demo Import' plugin."
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:8
+msgid ""
+"Install any pre-made starter site using a single-click demo\n"
+"                    installation option"
+msgstr ""
+
+#: welcome/sections/demo_import.php:5
+msgid "Install Meta Store Demos"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: welcome/sections/demo_import.php:26
+msgid "Install Swift Demo Import"
+msgstr ""
+
+#: welcome/welcome.php:36
+msgid "Install the demo to your site."
+msgstr ""
+
+#. 1: install status, 2: update status
+#: inc/tgm/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:153
+msgid "Integrate Revolution slider to your site"
+msgstr ""
+
+#: inc/theme-options/options/general-settings.php:93
+msgid ""
+"Is a simple logo animations to keep visitors entertained while site is "
+"loading."
+msgstr ""
+
+#: template-parts/content-none.php:41
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/theme-options/custom-controls/category-dropdown-control.php:30
+#: inc/theme-options/custom-controls/repeater-control.php:123
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:23
+#: inc/theme-options/options/blog-settings.php:160
+msgid "Layout 1"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:24
+#: inc/theme-options/options/blog-settings.php:161
+msgid "Layout 2"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:306
+msgid "Leave Empty to Hide Border"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:108
+#: inc/theme-options/custom-controls/dimensions-control.php:180
+#: inc/theme-options/custom-controls/dimensions-control.php:184
+#: inc/theme-options/custom-controls/dimensions-control.php:188
+msgid "Left"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:110
+msgid "Left & Right"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:265
+msgid "Left Bottom"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:264
+msgid "Left Center"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:263
+msgid "Left Top"
+msgstr ""
+
+#: welcome/sections/getting_started.php:2
+msgid "Let's Get Started"
+msgstr ""
+
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:51
+msgid "Letter Spacing"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:177
+msgid "Lifetime Updates"
+msgstr ""
+
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:50
+msgid "Line Height"
+msgstr ""
+
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:360
+msgid "Line-through"
+msgstr ""
+
+#: inc/theme-options/custom-controls/dimensions-control.php:47
+msgid "Link values together"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:608
+msgid "Logo Width(px)"
+msgstr ""
+
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:376
+msgid "Lowercase"
+msgstr ""
+
+#: inc/hooks/sections/header-actions.php:504
+msgid "Main Menu"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:70
+msgid "Maintainance Mode"
+msgstr ""
+
+#: welcome/sections/getting_started.php:9
+msgid "Manual Setup from Customizer Panel"
+msgstr ""
+
+#: inc/theme-options/custom-controls/repeater-control.php:225
+msgid "Material Icon"
+msgstr ""
+
+#: inc/template-functions.php:166 inc/theme-options/options/typography.php:138
+#: inc/theme-options/options/header-settings.php:138
+#: inc/theme-options/options/header-settings.php:157
+#: inc/theme-options/options/header-settings.php:176
+msgid "Menu"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:132
+msgid "Menu Call to Action Button"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:106
+msgid "Menu Hover Styles"
+msgstr ""
+
+#: inc/theme-options/options/typography.php:177
+msgid "Menu Typography"
+msgstr ""
+
+#. Name of the theme
+msgid "Meta Store"
+msgstr ""
+
+#: welcome/sections/getting_started.php:51
+#: welcome/sections/getting_started.php:64
+#: welcome/sections/getting_started.php:77
+#: welcome/sections/getting_started.php:90
+msgid "Meta Store Demos"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Meta Store is a beautifully designed responsive and fully customizable "
+"ecommerce template. It could be used for all types of e-commerce online "
+"stores, including Fashion, Clothing, Electronics, Furniture, Restaurant, "
+"Interior Store, Gadgets Store, Home Appliances Shop, Online shop, Organic "
+"Store, Retail Store, Automobile Shop, Books Store, Photo Store, Jewellery "
+"and almost any kind of store. The theme totally supports Elementor Plugin. "
+"It is fully responsive, translation ready, SEO friendly and compatible with "
+"WooCommerce. It has a user-friendly and powerful customizer panel which "
+"enhances the development of your site. Check Out Demo – https://demo."
+"mysticalthemes.com/meta-store/"
+msgstr ""
+
+#: welcome/sections/getting_started.php:44
+#, php-format
+msgid "Meta Store Pro - Premium Version of %s"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:334
+msgid "Middle Header"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:388
+msgid "Middle Header Spacing(px)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: inc/breadcrumbs.php:153
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:518
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/breadcrumbs.php:528
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/breadcrumbs.php:548 inc/breadcrumbs.php:604 inc/breadcrumbs.php:971
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/theme-options/options/typography.php:198
+msgid "More advanced Typography Settings for individual sections and elements"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:45
+msgid "More Header layouts and Customization Options"
+msgstr ""
+
+#. Author of the theme
+#: inc/hooks/sections/footer-actions.php:64
+msgid "Mystical Themes"
+msgstr ""
+
+#: single.php:23
+msgid "Next Post"
+msgstr ""
+
+#. 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/hooks/sections/blog-actions.php:223
+#: inc/hooks/sections/header-actions.php:232
+msgid "No Comments"
+msgstr ""
+
+#: inc/theme-options/custom-controls/repeater-control.php:107
+msgid "No image selected"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:252
+msgid "No Repeat"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:106
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:358
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:374
+msgid "None"
+msgstr ""
+
+#: inc/theme-options/custom-controls/color-tab-control.php:136
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:343
+msgid "Normal"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:236
+msgid "Overlay Color"
+msgstr ""
+
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:361
+msgid "Overline"
+msgstr ""
+
+#: welcome/welcome.php:26
+msgid "Overview about the settings."
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:83
+msgid "Packed with advanced page meta options to easily customize inner pages"
+msgstr ""
+
+#. %s is the page number.
+#: inc/breadcrumbs.php:149
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:655
+#: inc/theme-options/options/header-settings.php:665
+msgid "Page Banner"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:723
+msgid "Page Banner Image"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:756
+msgid "Page Banner Padding (Top/Bottom)"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:675
+msgid "Page Banner Style"
+msgstr ""
+
+#: inc/theme-options/options/sidebar-settings.php:16
+msgid "Page Layout"
+msgstr ""
+
+#: 404.php:15
+msgid "Page Not Found"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:743
+msgid "Page Title Color"
+msgstr ""
+
+#: template-parts/content-page.php:17
+msgid "Pages:"
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:153
+msgid "Payment Logos"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: welcome/welcome.php:455
+#, php-format
+msgid ""
+"Please leave us a %s rating if you like our theme . A huge thank you from "
+"MysticalThemes in advance!"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1121
+#: inc/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:387
+#: inc/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: welcome/welcome.php:31
+msgid "Plugins that work best with the theme."
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:233
+msgid "Position"
+msgstr ""
+
+#: inc/theme-options/options/sidebar-settings.php:34
+msgid "Post Layout"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:36
+msgid "Post with selected category will not display in the blog page"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:82
+msgid "Powerful Page Options"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:7
+msgid "Pre-built Starter Sites"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:88
+msgid "Preloader Options"
+msgstr ""
+
+#: welcome/sections/getting_started.php:57
+#: welcome/sections/getting_started.php:70
+#: welcome/sections/getting_started.php:83
+#: welcome/sections/getting_started.php:96
+msgid "Preview"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:140
+msgid "Preview changes as per you make using live customizer"
+msgstr ""
+
+#: single.php:22
+msgid "Previous Post"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:104
+msgid "Price"
+msgstr ""
+
+#: functions.php:52
+msgid "Primary Menu"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:14
+msgid "Pro"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29 woocommerce/cart/cart.php:85
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:110
+msgid "Quantity"
+msgstr ""
+
+#: welcome/welcome.php:135
+msgid "Read Documentation"
+msgstr ""
+
+#: welcome/sections/support.php:9
+msgid "Read Full Documentation"
+msgstr ""
+
+#: inc/hooks/sections/blog-actions.php:107
+#: inc/theme-options/options/blog-settings.php:55
+msgid "Read More"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:62
+msgid "Read More Text"
+msgstr ""
+
+#. Theme Name
+#: welcome/sections/support.php:7
+#, php-format
+msgid ""
+"Read the detailed documentation of the theme. The documentation contains all "
+"the necessary information required to set up the %s theme."
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: welcome/welcome.php:30
+msgid "Recommended Plugins"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:178
+msgid "Regular, lifetime updates"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:217
+#: inc/theme-options/custom-controls/repeater-control.php:113
+msgid "Remove"
+msgstr ""
+
+#: woocommerce/cart/cart.php:142
+msgid "Remove this item"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:231
+msgid "Repeat"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: welcome/welcome.php:128
+msgid "Resoto"
+msgstr ""
+
+#: welcome/sections/getting_started.php:11
+msgid "Resoto Demo"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:145
+msgid "Responsive Design"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:386
+#: inc/tgm/class-tgm-plugin-activation.php:827
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+#: inc/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:152
+msgid "Revolution Slider"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:109
+#: inc/theme-options/custom-controls/dimensions-control.php:178
+#: inc/theme-options/custom-controls/dimensions-control.php:182
+#: inc/theme-options/custom-controls/dimensions-control.php:186
+msgid "Right"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:268
+msgid "Right Bottom"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:267
+msgid "Right Center"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:266
+msgid "Right Top"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:164
+msgid "RTL Ready"
+msgstr ""
+
+#: inc/woocommerce.php:417
+msgid "Sale"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:275
+msgid "Scroll"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:159
+msgid "Search Engine will love it"
+msgstr ""
+
+#: inc/woocommerce.php:331 inc/woocommerce.php:362
+msgid "Search for:"
+msgstr ""
+
+#: inc/theme-options/options/sidebar-settings.php:88
+msgid "Search Page Layout"
+msgstr ""
+
+#: inc/hooks/sections/header-actions.php:289
+msgid "Search Result for: "
+msgstr ""
+
+#. %s is the search query.
+#: inc/breadcrumbs.php:147
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: inc/woocommerce.php:331 inc/woocommerce.php:362
+msgid "Search..."
+msgstr ""
+
+#: meta-box-class/meta-box-class.php:855
+msgid "Select ..."
+msgstr ""
+
+#: inc/theme-options/options/social-icons.php:43
+msgid "Select Icon"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:216
+#: inc/theme-options/custom-controls/repeater-control.php:114
+msgid "Select Image"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:208
+msgid "Select Menu"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:533
+msgid "Select Toggle Menu"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:221
+msgid "Select Widget"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:158
+msgid "SEO Friendly"
+msgstr ""
+
+#: inc/theme-options/options/sidebar-settings.php:106
+msgid "Shop Page Layout(WooCommerce)"
+msgstr ""
+
+#: functions.php:125
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:469
+msgid "Show Category Search"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:479
+msgid "Show Mini Cart"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:489
+msgid "Show Toggle Menu"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:546
+msgid "Show Toggle Menu Dropdown on"
+msgstr ""
+
+#: functions.php:115
+msgid "Sidebar"
+msgstr ""
+
+#: inc/metabox.php:15
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/theme-options/options/sidebar-settings.php:5
+msgid "Sidebar Settings"
+msgstr ""
+
+#: inc/theme-options/options/general-settings.php:64
+msgid "Sidebar Width (%)"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:156
+msgid "Single Post Layout"
+msgstr ""
+
+#: inc/theme-options/options/blog-settings.php:145
+msgid "Single Post Settings"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:638
+msgid "Site Tagline Color"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:628
+msgid "Site Title Color"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:232
+msgid "Size"
+msgstr ""
+
+#: header.php:24
+msgid "Skip to content"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:11
+msgid "SNO"
+msgstr ""
+
+#: inc/theme-options/options/social-icons.php:4
+#: inc/theme-options/options/header-settings.php:134
+#: inc/theme-options/options/header-settings.php:153
+#: inc/theme-options/options/header-settings.php:172
+#: inc/theme-options/options/header-settings.php:243
+msgid "Social Icons"
+msgstr ""
+
+#: inc/theme-options/options/social-icons.php:38
+msgid "Social Links"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: template-parts/content-none.php:34
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: welcome/welcome.php:335 welcome/welcome.php:375 welcome/welcome.php:399
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:113
+msgid ""
+"Standardise your webiste to GDPR to make your site\n"
+"                    trustworthy among your customer"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:64
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: welcome/sections/support.php:14
+msgid ""
+"Still, having problems after reading all the documentation? No Problem!! "
+"Please create a support ticket. Our dedicated support team will help you to "
+"solve your problem."
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:30
+#: inc/theme-options/options/header-settings.php:84
+msgid "Style"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:132
+msgid "Subtotal"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:171
+msgid ""
+"Supports multilingual site and translate into any language\n"
+"                    of your choice"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:165
+msgid "Supports the languages with RTL nature too"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:184
+msgid "Supportss Child theme if looking for theme customizations"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:71
+msgid "Switch to maintainance mode while maintaing the website"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:318
+msgid "Text Color"
+msgstr ""
+
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:48
+msgid "Text Decoration"
+msgstr ""
+
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:47
+msgid "Text Transform"
+msgstr ""
+
+#. %s: version number
+#: inc/tgm/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:346
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:388
+#: inc/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:364
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: 404.php:16
+msgid ""
+"The page you are looking for might have been removed, had it's name changed "
+"or is temporarily unavailable."
+msgstr ""
+
+#: welcome/sections/demo_import.php:27
+msgid "The plugin allows you to install the demo in one click."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:12
+msgid "Theme Features"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:125
+msgid "Theme Help & Support"
+msgstr ""
+
+#: inc/theme-options/options/color-settings.php:16
+msgid "Theme Primary Color"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:352
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/theme-options/options/blog-settings.php:157
+msgid "This option can be overwritten in single page settings."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/theme-options/options/color-settings.php:27
+msgid ""
+"This settings apply only in the single posts (i.e. page and post detail "
+"pages only)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:340
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:334
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: welcome/inc/comparison_datas.php:53
+msgid "Three Different Header Layouts to choose from"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:253
+msgid "Tile"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:254
+msgid "Tile Horizontally"
+msgstr ""
+
+#: inc/theme-options/custom-controls/background-image-control.php:255
+msgid "Tile Vertically"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:568
+msgid "Title & Logo"
+msgstr ""
+
+#. 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/theme-options/options/header-settings.php:521
+msgid "Toggle Menu Label"
+msgstr ""
+
+#: inc/theme-options/custom-controls/dimensions-control.php:177
+#: inc/theme-options/custom-controls/dimensions-control.php:181
+#: inc/theme-options/custom-controls/dimensions-control.php:185
+msgid "Top"
+msgstr ""
+
+#: inc/theme-options/options/footer-settings.php:48
+msgid "Top Footer"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:50
+msgid "Top Header"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:196
+msgid "Top Header Contents"
+msgstr ""
+
+#: 404.php:16
+msgid "Try going to homepage and look for something else ?"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/theme-options/custom-controls/repeater-control.php:233
+#: inc/theme-options/custom-controls/icon-selector-control.php:37
+msgid "Type to filter"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:94
+msgid "Typography Options"
+msgstr ""
+
+#: inc/theme-options/options/typography.php:6
+msgid "Typography Settings"
+msgstr ""
+
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:359
+msgid "Underline"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:15
+msgid "Unlimited color palette to choose from"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/cart/cart.php:166
+msgid "Update Cart"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: welcome/sections/getting_started.php:109 welcome/sections/free_vs_pro.php:71
+msgid "Upgrade Now"
+msgstr ""
+
+#: welcome/sections/getting_started.php:105
+msgid "Upgrade To Meta Store Pro"
+msgstr ""
+
+#: inc/theme-options/theme-options.php:72
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/theme-options/custom-controls/typography/typography-control-class.php:375
+msgid "Uppercase"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/theme-options/custom-controls/graident-control.php:62
+msgid "Vertical Spread (Top to Bottom)"
+msgstr ""
+
+#: welcome/sections/demo_import.php:9
+msgid "View All Demos"
+msgstr ""
+
+#: welcome/sections/getting_started.php:36
+msgid "View Available Demos"
+msgstr ""
+
+#: inc/woocommerce.php:271
+msgid "View your shopping cart"
+msgstr ""
+
+#: welcome/welcome.php:47
+msgid "We are here to support you."
+msgstr ""
+
+#: inc/theme-options/options/general-settings.php:49
+msgid "Website Container Width"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:45
+#: inc/theme-options/options/general-settings.php:35
+msgid "Website Layout"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: inc/breadcrumbs.php:155
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:577
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: welcome/welcome.php:171
+msgid "Welcome"
+msgstr ""
+
+#. 1-theme name
+#: welcome/sections/header.php:12
+#, php-format
+msgid ""
+"Welcome and thank you for installing %1$s. Getting started with %1$s is very "
+"easy. Here you will find all the necessary information required to get "
+"started with the theme."
+msgstr ""
+
+#. 1-theme name, 2-theme version
+#: welcome/sections/header.php:6
+#, php-format
+msgid "Welcome to %1$s - Version %2$s"
+msgstr ""
+
+#: inc/template-functions.php:135
+#: inc/theme-options/options/header-settings.php:227
+msgid "Welcome To Meta Store"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:146
+msgid ""
+"Whether handheld devices or wide displays your site will\n"
+"                    look great"
+msgstr ""
+
+#: welcome/sections/getting_started.php:108
+msgid "Why Upgrade ?"
+msgstr ""
+
+#: inc/theme-options/options/general-settings.php:37
+msgid "Wide"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:48 welcome/inc/comparison_datas.php:49
+msgid "Wide, Boxed"
+msgstr ""
+
+#: inc/theme-options/options/header-settings.php:135
+#: inc/theme-options/options/header-settings.php:154
+#: inc/theme-options/options/header-settings.php:173
+msgid "Widget"
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:26
+msgid "WooCommerce Compatible"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/hooks/sections/footer-actions.php:64
+msgid "WordPress Theme by "
+msgstr ""
+
+#: welcome/inc/comparison_datas.php:170
+msgid "WPML Compatible & Translation Ready"
+msgstr ""
+
+#: inc/breadcrumbs.php:547 inc/breadcrumbs.php:576 inc/breadcrumbs.php:603
+#: inc/breadcrumbs.php:630 inc/breadcrumbs.php:967
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:25
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: welcome/sections/getting_started.php:34
+msgid ""
+"You will find the list of the demos available for you to install. Now "
+"Install the demo of your choice."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:49
+msgid "Your order"
+msgstr ""

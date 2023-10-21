@@ -1,0 +1,766 @@
+# Translation of Plugins - Perfect Brands for WooCommerce - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Perfect Brands for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-09-30 17:47:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.9\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Perfect Brands for WooCommerce - Stable (latest release)\n"
+
+#: templates/widgets/filter-by-brand.php:32
+msgid "Remove filter"
+msgstr "Eliminar el filtro"
+
+#. Plugin URI of the plugin
+msgid "https://quadlayers.com/products/perfect-woocommerce-brands/"
+msgstr "https://quadlayers.com/products/perfect-woocommerce-brands/"
+
+#. Plugin Name of the plugin
+msgid "Perfect Brands WooCommerce"
+msgstr "Perfect Brands for WooCommerce"
+
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Table.php:165
+msgctxt "Plugin Installer"
+msgid "Favorites"
+msgstr "Favoritos"
+
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Table.php:160
+msgctxt "Plugin Installer"
+msgid "Beta Testing"
+msgstr "Pruebas beta"
+
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Table.php:157
+msgid "Search Results"
+msgstr "Resultados de la búsqueda"
+
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/view/suggestions.php:50
+msgid "Thanks for using our product! We recommend these extensions that will add new features to stand out your business and improve your sales."
+msgstr "¡Gracias por usar nuestro producto! Recomendamos estas extensiones que añadirán nuevas características para hacer destacar tu negocio y mejorar tus ventas."
+
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Page.php:78
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Page.php:93
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Page.php:94
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/view/suggestions.php:47
+#: lib/admin/class-admin-tab.php:42
+msgid "Suggestions"
+msgstr "Sugerencias"
+
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Table.php:164
+msgctxt "Plugin Installer"
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Table.php:163
+msgctxt "Plugin Installer"
+msgid "Popular"
+msgstr "Popular"
+
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/Table.php:162
+msgctxt "Plugin Installer"
+msgid "Featured"
+msgstr "Destacado"
+
+#: lib/admin/class-admin-tab.php:261
+msgid "Products tab"
+msgstr "Pestaña de productos"
+
+#: lib/admin/class-admin-tab.php:32
+#: vendor_packages/wp-plugin-table-links.php:23
+msgid "Documentation"
+msgstr "Documentación"
+
+#: lib/admin/class-admin-tab.php:136
+msgid "Archives"
+msgstr "Archivos"
+
+#: vendor_packages/wp-notice-plugin-promote.php:55
+msgid "Report a bug"
+msgstr "Informar de un fallo"
+
+#: vendor_packages/wp-notice-plugin-promote.php:50
+msgid "Yes, of course!"
+msgstr "¡Sí, por supuesto!"
+
+#: vendor_packages/wp-notice-plugin-promote.php:42
+msgid "Hello! Thank you for choosing the %s plugin!"
+msgstr "¡Hola! ¡Gracias por elegir el plugin %s!"
+
+#: lib/widgets/class-filter-by-brand.php:50
+msgid "Show only first level brands"
+msgstr "Mostrar solo marcas de primer nivel"
+
+#. Author URI of the plugin
+msgid "https://quadlayers.com"
+msgstr "https://quadlayers.com"
+
+#. Author of the plugin
+#: jetpack_vendor/quadlayers/wp-plugin-suggestions/src/view/suggestions.php:79
+msgid "QuadLayers"
+msgstr "QuadLayers"
+
+#: lib/admin/class-admin-tab.php:420
+msgid "Select your \"Brands\" page (if you have one), it will be linked in the breadcrumbs."
+msgstr "Selecciona tu página de «Marcas» (si tienes una), se enlazará en las migas de pan."
+
+#: lib/admin/class-admin-tab.php:411
+msgid "The default image sizes can be configured under \"Settings > Media\". You can also define your own image sizes"
+msgstr "Los tamaños de imagen por defecto se pueden configurar en «Ajustes > Medios». También puedes definir tus propios tamaños de imagen"
+
+#: lib/admin/class-admin-tab.php:410
+msgid "Select the size for the brand logo image around the site"
+msgstr "Selecciona el tamaño de la imagen del logotipo de la marca en el sitio"
+
+#: lib/admin/class-admin-tab.php:400
+msgid "Your brands URLs will look like \"%s\""
+msgstr "Las URL de tus marcas se verán como «%s»"
+
+#: lib/admin/class-admin-tab.php:383
+msgid "brand-name"
+msgstr "nombre-marca"
+
+#: lib/admin/class-admin-tab.php:383
+msgid "brands"
+msgstr "marcas"
+
+#: lib/class-woocommerce.php:565
+msgid "Only parent brands"
+msgstr "Solo marcas principales"
+
+#: lib/admin/class-admin-tab.php:292
+msgid "In meta"
+msgstr "En meta"
+
+#: lib/admin/class-admin-tab.php:26 lib/admin/class-admin-tab.php:389
+msgid "General"
+msgstr "General"
+
+#: lib/admin/class-admin-tab.php:321 lib/admin/class-admin-tab.php:433
+#: lib/class-woocommerce.php:570
+msgid "Yes"
+msgstr "Sí"
+
+#: lib/admin/class-edit-brands-page.php:88
+msgid "Featured"
+msgstr "Destacadas"
+
+#: lib/admin/class-admin-tab.php:416
+msgid "Brands page"
+msgstr "Página de marcas"
+
+#: lib/admin/class-admin-tab.php:189
+msgid "No, hide banner"
+msgstr "No, ocultar el banner"
+
+#: lib/admin/class-admin-tab.php:180
+msgid "Show brand banner"
+msgstr "Mostrar el banner de marcas"
+
+#: lib/admin/class-admin-tab.php:184
+msgid "Show brand banner (if is set) on brand archive page"
+msgstr "Mostrar el banner de marcas en la página de archivo de marcas (si está establecido)"
+
+#: lib/class-woocommerce.php:556
+msgid "PWB AZ Listing"
+msgstr "PWB Listado AZ"
+
+#: templates/admin/brands-exporter.php:12
+msgid "Export brands"
+msgstr "Exportar marcas"
+
+#: templates/admin/brands-exporter.php:15
+msgid "This tool allows you to export and import the brands between different sites using PWB."
+msgstr "Esta herramienta te permite exportar e importar las marcas entre distintos sitios usando PWB."
+
+#: lib/class-woocommerce.php:557
+msgid "AZ Listing for brands"
+msgstr "Listado AZ para marcas"
+
+#: lib/admin/class-admin-tab.php:419
+msgid "For linking breadcrumbs"
+msgstr "Para enlazar las migas de pan"
+
+#: lib/widgets/class-brands-list.php:98
+msgid "Randomize"
+msgstr "Aleatorio"
+
+#: lib/widgets/class-filter-by-brand.php:43
+msgid "Hide filter button"
+msgstr "Ocultar el botón de filtro"
+
+#: lib/widgets/class-filter-by-brand.php:35
+msgid "Max number of brands"
+msgstr "Número máximo de marcas"
+
+#: lib/class-term.php:28
+msgid "Only WP_Term objects are allowed"
+msgstr "Solo se permiten objetos WP_Term"
+
+#: lib/widgets/class-brands-dropdown.php:60
+#: lib/widgets/class-brands-list.php:88
+msgid "Only favorite brands"
+msgstr "Solo las marcas favoritas"
+
+#: lib/admin/class-brands-custom-fields.php:21
+#: lib/admin/class-brands-custom-fields.php:70
+msgid "Description"
+msgstr "Descripción"
+
+#: lib/admin/class-admin-tab.php:149 lib/admin/class-admin-tab.php:161
+#: lib/admin/class-admin-tab.php:174 lib/admin/class-admin-tab.php:187
+msgid "Yes, before product loop"
+msgstr "Sí, antes de los productos"
+
+#: lib/admin/class-admin-tab.php:162 lib/admin/class-admin-tab.php:175
+#: lib/admin/class-admin-tab.php:188
+msgid "Yes, after product loop"
+msgstr "Sí, después de los productos"
+
+#: lib/admin/class-admin-tab.php:163 lib/admin/class-admin-tab.php:176
+msgid "No, hide description"
+msgstr "No, ocultar descripción"
+
+#: lib/admin/class-brands-custom-fields.php:23
+#: lib/admin/class-brands-custom-fields.php:74
+msgid "Brand description for the archive pages. You can include some html markup and shortcodes."
+msgstr "Descripción de la marca para las páginas de archivo. Puedes incluir marcado HTML y shortcodes."
+
+#: lib/class-woocommerce.php:441
+msgid "Number of items to load (or 'featured')"
+msgstr "Número de elementos a cargar (o 'featured')"
+
+#: lib/admin/class-edit-brands-page.php:48
+msgid "featured"
+msgstr "destacado"
+
+#: lib/admin/class-edit-brands-page.php:104
+msgid "Set as featured"
+msgstr "Marcar como destacada"
+
+#: lib/admin/class-edit-brands-page.php:138
+msgid "Error!"
+msgstr "¡Error!"
+
+#: lib/admin/class-edit-brands-page.php:160
+msgid "Show featured brands first"
+msgstr "Mostrar marcas destacadas primero"
+
+#: templates/shortcodes/carousel.php:20
+#: templates/shortcodes/product-carousel.php:23
+msgid "Loading"
+msgstr "Cargando"
+
+#: templates/shortcodes/product-carousel.php:26
+msgid "Nothing found"
+msgstr "No se ha encontrado nada"
+
+#: lib/class-woocommerce.php:540
+msgid "Hide"
+msgstr "Ocultar"
+
+#: lib/admin/class-admin-tab.php:264
+msgid "Show brand tab in single product page"
+msgstr "Mostrar pestaña con información de la marca en la página del producto"
+
+#: lib/admin/class-admin-tab.php:355
+msgid "Offical WooCommerce Brands"
+msgstr "Offical WooCommerce Brands"
+
+#: lib/class-woocommerce.php:510
+msgid "Order by"
+msgstr "Ordenar por"
+
+#: lib/class-woocommerce.php:524
+msgid "Order"
+msgstr "Orden"
+
+#: lib/class-woocommerce.php:534
+msgid "Title position"
+msgstr "Posición del título"
+
+#: lib/class-woocommerce.php:538
+msgid "Before image"
+msgstr "Antes de la imagen"
+
+#: lib/class-woocommerce.php:539
+msgid "After image"
+msgstr "Después de la imagen"
+
+#: lib/class-woocommerce.php:742
+msgid "¿Start loading dummy data?"
+msgstr "¿Empezar a cargar datos ficticios?"
+
+#: lib/class-woocommerce.php:743
+msgid "We are importing the dummy data. ¡Don´t close this window until the process is finished!"
+msgstr "Estamos importando las marcas ficticias. ¡No cierres esta ventana hasta que termine el proceso!"
+
+#: lib/class-woocommerce.php:866
+msgid "All"
+msgstr "Todas"
+
+#: lib/admin/class-coupon.php:29
+msgid "Product brands"
+msgstr "Marcas del producto"
+
+#: lib/admin/class-admin-tab.php:347
+msgid "Import brands from other brand plugin. <a href=\"%s\" target=\"_blank\">Click here for more details</a>"
+msgstr "Importar marcas de producto de otro plugin de marcas. <a href=\"%s\" target=\"_blank\">Pulsa aquí para ver la documentación</a>"
+
+#: lib/admin/class-admin-tab.php:354
+msgid "Ultimate WooCommerce Brands"
+msgstr "Ultimate WooCommerce Brands"
+
+#: lib/admin/class-admin-tab.php:359
+msgid "Dummy data"
+msgstr "Datos ficticios"
+
+#: lib/admin/class-admin-tab.php:362
+msgid "Import generic brands and assign it to products randomly"
+msgstr "Importar marcas genéricas y asignarlas a los productos existentes de forma aleatoria"
+
+#: lib/admin/class-admin-tab.php:366
+msgid "Start import"
+msgstr "Comenzar importación"
+
+#: lib/admin/class-admin-tab.php:370
+msgid "System status"
+msgstr "Estado del sistema"
+
+#: lib/admin/class-admin-tab.php:372
+msgid "Show system status"
+msgstr "Ver estado del sistema"
+
+#: lib/admin/class-coupon.php:30 lib/admin/class-coupon.php:44
+msgid "Any brand"
+msgstr "Cualquier marca"
+
+#: lib/widgets/class-brands-list.php:58
+msgid "Columns:"
+msgstr "Columnas:"
+
+#: lib/class-woocommerce.php:418 lib/class-woocommerce.php:469
+msgid "Arrows"
+msgstr "Flechas"
+
+#: vendor_packages/wp-plugin-table-links.php:8
+msgid "Settings"
+msgstr "Ajustes"
+
+#: lib/class-woocommerce.php:420 lib/class-woocommerce.php:471
+msgid "Display prev and next arrows"
+msgstr "Mostrar flechas de navegación"
+
+#: lib/class-woocommerce.php:546 lib/widgets/class-brands-dropdown.php:49
+#: lib/widgets/class-brands-list.php:78
+msgid "Hide empty"
+msgstr "Ocultar vacías"
+
+#: lib/class-woocommerce.php:548
+msgid "Hide brands that have not been assigned to any product"
+msgstr "Ocultar marcas que no han sido asignadas a ningún producto"
+
+#: lib/admin/class-admin-tab.php:268
+msgid "Show brands in single product"
+msgstr "Mostrar marcas en la página del producto"
+
+#: lib/admin/class-admin-tab.php:271
+msgid "Show brand logo (or name) in single product"
+msgstr "Mostrar el logo de la marca (o el nombre) en la página del producto"
+
+#: lib/widgets/class-brands-list.php:48
+msgid "Display as:"
+msgstr "Mostrar como:"
+
+#: lib/widgets/class-brands-list.php:53
+msgid "Brand name"
+msgstr "Nombre de la marca"
+
+#: lib/widgets/class-filter-by-brand.php:14
+msgid "Filter products by brand"
+msgstr "Filtrar productos por marca"
+
+#: lib/admin/class-admin-tab.php:343 templates/admin/brands-exporter.php:13
+msgid "Import brands"
+msgstr "Importar marcas"
+
+#: lib/admin/class-admin-tab.php:30 lib/admin/class-admin-tab.php:337
+msgid "Tools"
+msgstr "Herramientas"
+
+#: lib/admin/class-admin-tab.php:89 lib/admin/class-admin-tab.php:207
+#: lib/admin/class-admin-tab.php:275 lib/admin/class-admin-tab.php:320
+#: lib/admin/class-admin-tab.php:432 lib/class-woocommerce.php:569
+msgid "No"
+msgstr "No"
+
+#: lib/class-woocommerce.php:740
+msgid "¿Start migration?"
+msgstr "¿Comenzar la migración?"
+
+#: lib/class-woocommerce.php:741
+msgid "We are migrating the product brands. ¡Don´t close this window until the process is finished!"
+msgstr "Estamos migrando las marcas de producto. ¡No cierres esta ventana hasta que el proceso finalice!"
+
+#: lib/admin/class-admin-tab.php:83 lib/admin/class-admin-tab.php:201
+msgid "Show brands in loop"
+msgstr "Mostrar marcas en el bucle"
+
+#: lib/admin/class-admin-tab.php:86 lib/admin/class-admin-tab.php:204
+msgid "Show brand logo (or name) in product loop"
+msgstr "Mostrar el logo de la marca (o el nombre) en el bucle de productos"
+
+#: lib/admin/class-admin-tab.php:90 lib/admin/class-admin-tab.php:208
+#: lib/admin/class-admin-tab.php:276
+msgid "Show brand link"
+msgstr "Mostrar el enlace de la marca"
+
+#: lib/admin/class-admin-tab.php:91 lib/admin/class-admin-tab.php:209
+#: lib/admin/class-admin-tab.php:277
+msgid "Show brand image (if is set)"
+msgstr "Mostrar el logo de la marca (si tiene uno asignado)"
+
+#: lib/admin/class-admin-tab.php:352 lib/admin/class-admin-tab.php:365
+msgid "-"
+msgstr "-"
+
+#: lib/admin/class-admin-tab.php:353
+msgid "YITH WooCommerce Brands Add-On"
+msgstr "YITH WooCommerce Brands Add-On"
+
+#: lib/widgets/class-filter-by-brand.php:13
+msgid "Recommended for product categories or shop page"
+msgstr "Recomendado para las categorías de producto y la página de la tienda"
+
+#: lib/widgets/class-brands-list.php:33
+#: lib/widgets/class-filter-by-brand.php:29
+msgid "Title:"
+msgstr "Título:"
+
+#: templates/widgets/filter-by-brand.php:29
+msgid "Apply filter"
+msgstr "Filtrar"
+
+#: lib/admin/class-admin-tab.php:154
+msgid "Show brand description"
+msgstr "Mostrar descripción de la marca"
+
+#: lib/admin/class-admin-tab.php:158
+msgid "Show brand description (if is set) on brand archive page"
+msgstr "Mostrar descripción de la marca en la página de archivo"
+
+#: lib/class-woocommerce.php:370
+msgid "PWB Product carousel"
+msgstr "PWB Carrusel de productos"
+
+#: lib/class-woocommerce.php:371
+msgid "Product carousel by brand or by category"
+msgstr "Carrusel de productos por marca o categoría"
+
+#: lib/admin/class-admin-tab.php:29 lib/admin/class-admin-tab.php:255
+#: lib/class-woocommerce.php:387
+msgid "Products"
+msgstr "Productos"
+
+#: lib/class-woocommerce.php:390
+msgid "Number of products to load"
+msgstr "Número de productos que cargar"
+
+#: lib/class-woocommerce.php:395
+msgid "Products to show"
+msgstr "Productos a mostrar"
+
+#: lib/class-woocommerce.php:398
+msgid "Number of products to show"
+msgstr "Número de productos que mostrar"
+
+#: lib/class-woocommerce.php:403
+msgid "Products to scroll"
+msgstr "Número de productos que desplazar"
+
+#: lib/class-woocommerce.php:406
+msgid "Number of products to scroll"
+msgstr "Número de productos que desplazar"
+
+#: lib/admin/class-admin-tab.php:281
+msgid "Brand position"
+msgstr "Posición de la marca"
+
+#: lib/admin/class-admin-tab.php:284
+msgid "For single product"
+msgstr "En la página individual de producto"
+
+#: lib/admin/class-admin-tab.php:287
+msgid "Before title"
+msgstr "Antes del título"
+
+#: lib/admin/class-admin-tab.php:288
+msgid "After title"
+msgstr "Después del título"
+
+#: lib/admin/class-admin-tab.php:289
+msgid "After price"
+msgstr "Después del precio"
+
+#: lib/admin/class-admin-tab.php:290
+msgid "After excerpt"
+msgstr "Después del extracto"
+
+#: lib/admin/class-admin-tab.php:291
+msgid "After add to cart"
+msgstr "Después del botón de añadir al carrito"
+
+#: lib/admin/class-admin-tab.php:293
+msgid "After meta"
+msgstr "Después de los metadatos"
+
+#: lib/admin/class-admin-tab.php:294
+msgid "After sharing"
+msgstr "Después de las opciones de compartir"
+
+#: lib/admin/class-brands-custom-fields.php:39
+#: lib/admin/class-brands-custom-fields.php:108
+msgid "Brand banner"
+msgstr "Banner de la marca"
+
+#: lib/admin/class-brands-custom-fields.php:42
+msgid "This image will be shown on brand page"
+msgstr "Esta imagen se mostrará en la página de la marca"
+
+#: lib/admin/class-brands-custom-fields.php:46
+#: lib/admin/class-brands-custom-fields.php:128
+msgid "Brand banner link"
+msgstr "Enlace del banner de la marca"
+
+#: lib/admin/class-brands-custom-fields.php:48
+#: lib/admin/class-brands-custom-fields.php:132
+msgid "This link should be relative to site url. Example: \"/product/product-name\""
+msgstr "Este enlace ha de ser relativo a la url del sitio. Ejemplo: producto/nombre-del-producto"
+
+#: lib/admin/class-exporter-support.php:22
+#: lib/admin/class-importer-support.php:22
+#: lib/admin/class-importer-support.php:33 lib/class-product.php:22
+#: lib/class-product.php:40 lib/class-woocommerce.php:379
+#: lib/class-woocommerce.php:622 lib/class-woocommerce.php:762
+msgid "Brand"
+msgid_plural "Brands"
+msgstr[0] "Marca"
+msgstr[1] ""
+
+#: lib/class-woocommerce.php:411 lib/class-woocommerce.php:462
+msgid "Autoplay"
+msgstr "Reproducción automática"
+
+#: lib/class-woocommerce.php:413 lib/class-woocommerce.php:464
+msgid "Autoplay carousel"
+msgstr "Modo automático para el carrusel"
+
+#: lib/class-woocommerce.php:428
+msgid "PWB Brands carousel"
+msgstr "PWB Carrusel de marcas"
+
+#: lib/class-woocommerce.php:429
+msgid "Brands carousel"
+msgstr "Carrusel de marcas"
+
+#: lib/class-woocommerce.php:438
+msgid "Items"
+msgstr "Elementos"
+
+#: lib/class-woocommerce.php:446
+msgid "Items to show"
+msgstr "Elementos a mostrar"
+
+#: lib/class-woocommerce.php:449
+msgid "Number of items to show"
+msgstr "Número de elementos a mostrar"
+
+#: lib/class-woocommerce.php:454
+msgid "Items to scroll"
+msgstr "Número de elementos por scroll"
+
+#: lib/class-woocommerce.php:457
+msgid "Number of items to scroll"
+msgstr "Número de elementos por cada desplazamiento"
+
+#: lib/admin/class-admin-tab.php:407 lib/class-woocommerce.php:475
+#: lib/class-woocommerce.php:503 lib/class-woocommerce.php:596
+msgid "Brand logo size"
+msgstr "Tamaño del logo de la marca"
+
+#: lib/class-woocommerce.php:486
+msgid "PWB All brands"
+msgstr "PWB Todas las marcas"
+
+#: lib/class-woocommerce.php:487
+msgid "Show all brands"
+msgstr "Mostrar todas las marcas"
+
+#: lib/class-woocommerce.php:496
+msgid "Brands per page"
+msgstr "Marcas por página"
+
+#: lib/class-woocommerce.php:499
+msgid "Show x brands per page"
+msgstr "Mostrar x marcas por página"
+
+#: lib/class-woocommerce.php:580
+msgid "Show brand for a specific product"
+msgstr "Ver marcas de un producto específico"
+
+#: lib/class-woocommerce.php:649 templates/shortcodes/brand.php:18
+msgid "View brand"
+msgstr "Ver marca"
+
+#: lib/admin/class-admin-tab.php:28 lib/admin/class-admin-tab.php:308
+#: lib/admin/class-admin-tab.php:451 lib/admin/class-edit-brands-page.php:157
+#: lib/class-woocommerce.php:761 lib/class-woocommerce.php:763
+#: lib/widgets/class-brands-dropdown.php:20
+#: lib/widgets/class-brands-list.php:20
+#: lib/widgets/class-filter-by-brand.php:22
+#: lib/widgets/class-filter-by-brand.php:89 templates/widgets/dropdown.php:14
+msgid "Brands"
+msgstr "Marcas"
+
+#: lib/class-woocommerce.php:764
+msgid "All Brands"
+msgstr "Todas las marcas"
+
+#: lib/class-woocommerce.php:765
+msgid "Edit Brand"
+msgstr "Editar marca"
+
+#: lib/class-woocommerce.php:766
+msgid "View Brand"
+msgstr "Ver marca"
+
+#: lib/class-woocommerce.php:767
+msgid "Update Brand"
+msgstr "Actualizar marca"
+
+#: lib/class-woocommerce.php:768
+msgid "Add New Brand"
+msgstr "Añadir nueva marca"
+
+#: lib/class-woocommerce.php:769
+msgid "New Brand Name"
+msgstr "Nombre de nueva marca"
+
+#: lib/class-woocommerce.php:772
+msgid "Search Brands"
+msgstr "Buscar marcas"
+
+#: lib/class-woocommerce.php:774
+msgid "Separate brands with commas"
+msgstr "Separar marcas con comas"
+
+#: lib/class-woocommerce.php:775
+msgid "Add or remove brands"
+msgstr "Añadir o eliminar marcas"
+
+#: lib/class-woocommerce.php:776
+msgid "Choose from the most used brands"
+msgstr "Seleccionar de las marcas más utilizadas"
+
+#: lib/class-woocommerce.php:777
+msgid "No brands found"
+msgstr "No se han encontrado marcas"
+
+#: lib/admin/class-brands-custom-fields.php:35
+#: lib/admin/class-brands-custom-fields.php:41
+#: lib/admin/class-brands-custom-fields.php:92
+#: lib/admin/class-brands-custom-fields.php:112
+msgid "Select image"
+msgstr "Seleccionar imagen"
+
+#: lib/admin/class-admin-tab.php:395
+msgid "Slug"
+msgstr "Slug"
+
+#: lib/admin/class-admin-tab.php:398
+msgid "Brands taxonomy slug"
+msgstr "Slug de la taxonomía marcas"
+
+#: lib/shortcodes/class-all-brands.php:174
+msgid "First page"
+msgstr "Primera página"
+
+#: lib/shortcodes/class-all-brands.php:177
+msgid "Previous page"
+msgstr "Página anterior"
+
+#: lib/shortcodes/class-all-brands.php:181
+msgid "Next page"
+msgstr "Siguiente página"
+
+#: lib/shortcodes/class-all-brands.php:184
+msgid "Last page"
+msgstr "Última página"
+
+#: lib/shortcodes/class-all-brands.php:188
+msgid "No results"
+msgstr "No se han encontrado resultados"
+
+#: lib/widgets/class-brands-dropdown.php:11
+msgid "Adds a brands dropdown to your site"
+msgstr "Añade un desplegable con las marcas a tu sitio"
+
+#: lib/widgets/class-brands-dropdown.php:12
+msgid "Brands dropdown"
+msgstr "Desplegable de marcas"
+
+#: lib/widgets/class-brands-dropdown.php:27
+msgid "Title"
+msgstr "Título"
+
+#: lib/widgets/class-brands-list.php:11
+msgid "Adds a brands list to your site"
+msgstr "Añade una lista de marcas a tu sitio"
+
+#: lib/widgets/class-brands-list.php:12
+msgid "Brands list"
+msgstr "Lista de marcas"
+
+#: lib/widgets/class-brands-list.php:145
+msgid "Go to"
+msgstr "Ir a"
+
+#. Description of the plugin
+msgid "Perfect WooCommerce Brands allows you to show product brands in your WooCommerce based store."
+msgstr "Perfect WooCommerce Brands te permite mostrar marcas de producto en tu tienda WooCommerce."
+
+#: lib/admin/class-edit-brands-page.php:87
+msgid "Logo"
+msgstr "Logotipo"
+
+#: lib/admin/class-brands-custom-fields.php:33
+#: lib/admin/class-brands-custom-fields.php:88
+#: lib/widgets/class-brands-list.php:54
+msgid "Brand logo"
+msgstr "Logotipo de la marca"
+
+#: lib/class-woocommerce.php:773
+msgid "Popular Brands"
+msgstr "Marcas populares"
+
+#: lib/class-woocommerce.php:592
+msgid "Product id (post id)"
+msgstr "ID del producto (ID de la entrada)"
+
+#: lib/class-woocommerce.php:589
+msgid "Product id"
+msgstr "ID del producto"
+
+#: lib/class-woocommerce.php:579
+msgid "PWB brand"
+msgstr "Marca PWB"
+
+#: lib/class-woocommerce.php:771
+msgid "Parent Brand:"
+msgstr "Marca principal:"
+
+#: lib/class-woocommerce.php:770
+msgid "Parent Brand"
+msgstr "Marca principal"

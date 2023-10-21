@@ -1,0 +1,1 @@
+<?php $this->render_plugin_content_free(); ?>

@@ -1,0 +1,2 @@
+2023-10-07T00:58:25+00:00 CRITICAL require_once(): Failed opening required 'classes/class-pwb-term.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') en /home/yelsonpe/tecnoplaza.yelsonpersi.com/wp-content/plugins/perfect-woocommerce-brands/perfect-woocommerce-brands.php en la línea 86
+
